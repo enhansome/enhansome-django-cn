@@ -1,0 +1,3736 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Awesome Django"
+    },
+    {
+      "description": "扩展管理界面，增加或增强基功能特性的相关包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-xadmin, star:2016",
+          "description": "一个 Django admin 的替代器，并附带很多不错的功能特性，完全支持用插件扩展，绚丽的 UI 基于 Twitter Bootstrap。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-16T05:44:15Z",
+            "owner": "sshwsfc",
+            "repo": "xadmin",
+            "stars": 4750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-grappelli, star:2087",
+          "description": "可用于 Django 管理界面的一个绚丽皮肤。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-10T08:20:47Z",
+            "owner": "sehmaschine",
+            "repo": "django-grappelli",
+            "stars": 3941
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-simpleui, star:1411",
+          "description": "可用于 Django 管理界面的一个Vue+Element-ui的现代主题。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-13T06:31:24Z",
+            "owner": "newpanjing",
+            "repo": "simpleui",
+            "stars": 3814
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-jet, star:791",
+          "description": "可用于管理界面的现代模板，并增强了功能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-26T22:21:07Z",
+            "owner": "geex-arts",
+            "repo": "django-jet",
+            "stars": 3622
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-material, star:1037",
+          "description": "Material 风格的 Django 表单和管理界面。是模板驱动的。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-02T04:00:38Z",
+            "owner": "viewflow",
+            "repo": "django-material",
+            "stars": 2540
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-suit, star:1226",
+          "description": "可用于 Django 管理界面的一个现代主题。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "SCSS",
+            "last_commit": "2025-05-27T14:06:26Z",
+            "owner": "darklow",
+            "repo": "django-suit",
+            "stars": 2408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-admin-interface, star:75",
+          "description": "终级管理界面，它基于现代扁平式风格，能让你通过管理界面自身定制它的主题、logo 和配色。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T18:02:43Z",
+            "owner": "fabiocaccamo",
+            "repo": "django-admin-interface",
+            "stars": 2036
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-hijack, star:542",
+          "description": "允许超级用户以其他用户微分登录和操作。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T17:25:32Z",
+            "owner": "django-hijack",
+            "repo": "django-hijack",
+            "stars": 1739
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-admin-bootstrapped, star:1360",
+          "description": "一种基于 Twitter Bootstrap 的 Django 管理界面主题。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2021-08-15T05:01:34Z",
+            "owner": "django-admin-bootstrapped",
+            "repo": "django-admin-bootstrapped",
+            "stars": 1571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-admin2, star:952",
+          "description": "django.contrib.admin 的一个可扩展、能适配的版本。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-02T11:47:22Z",
+            "owner": "jazzband",
+            "repo": "django-admin2",
+            "stars": 1186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-admin-tools, star:221",
+          "description": "一个关于默认 Django 管理界面的扩展/工具的集合。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-10T12:40:54Z",
+            "owner": "django-admin-tools",
+            "repo": "django-admin-tools",
+            "stars": 897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-admin-bootstrap, star:468",
+          "description": "Django 管理界面的自适应皮肤。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2022-10-10T08:21:49Z",
+            "owner": "douglasmiranda",
+            "repo": "django-admin-bootstrap",
+            "stars": 877
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-object-actions, star:162",
+          "description": "一个 Django 应用，用于在管理界面中为数据模型添加对象工具。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-29T03:01:57Z",
+            "owner": "crccheck",
+            "repo": "django-object-actions",
+            "stars": 812
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-admin-easy, star:70",
+          "description": "一个关于管理界面数据项和装饰器的集合。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-06T04:03:05Z",
+            "owner": "ebertti",
+            "repo": "django-admin-easy",
+            "stars": 502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-flat-theme, star:392",
+          "description": "可用于 Django 管理界面的一种扁平式主题。现代、清新、简洁。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2018-11-05T18:29:42Z",
+            "owner": "elky",
+            "repo": "django-flat-theme",
+            "stars": 407
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-fluent-dashboard, star:166",
+          "description": "Django 项目的增强型管理面板。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-03T11:12:17Z",
+            "owner": "django-fluent",
+            "repo": "django-fluent-dashboard",
+            "stars": 341
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-wpadmin, star:202",
+          "description": "WordPress 风格的 Django 管理界面。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-01T18:46:52Z",
+            "owner": "barszczmm",
+            "repo": "django-wpadmin",
+            "stars": 265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "djamin, star:214",
+          "description": "Django 管理界面的一种新样式。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2016-05-11T02:10:38Z",
+            "owner": "hersonls",
+            "repo": "djamin",
+            "stars": 235
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "yawd-admin, star:129",
+          "description": "用于 Django 的一个管理界面（3 年未更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-03-02T19:04:57Z",
+            "owner": "ppetrid",
+            "repo": "yawd-admin",
+            "stars": 137
+          }
+        }
+      ],
+      "title": "管理界面"
+    },
+    {
+      "description": "有助于管理项目资源文件的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-compressor, star:1862",
+          "description": "将通过链接及内联的 javascript 或 CSS 压缩成单个缓存文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T07:03:12Z",
+            "owner": "django-compressor",
+            "repo": "django-compressor",
+            "stars": 2870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-webpack-loader, star:807",
+          "description": "webpack 无缝集成到 django。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-13T14:48:04Z",
+            "owner": "django-webpack",
+            "repo": "django-webpack-loader",
+            "stars": 2541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-pipeline, star:1141",
+          "description": "Django 的资源文件管理包。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-10T03:19:08Z",
+            "owner": "jazzband",
+            "repo": "django-pipeline",
+            "stars": 1541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-htmlmin, star:340",
+          "description": "用于 Python 框架的 HTML 压缩工具，完全支持 HTML 5 和 Django。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-12T16:02:05Z",
+            "owner": "cobrateam",
+            "repo": "django-htmlmin",
+            "stars": 543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-webpack, star:58",
+          "description": "webpack 的 Python 绑定包，并与 django 集成。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-10-21T23:30:27Z",
+            "owner": "markfinger",
+            "repo": "python-webpack",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-gears, star:54",
+          "description": "编译及合并 JavaScript 和 CSS 文件。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2015-01-21T08:02:06Z",
+            "owner": "gears",
+            "repo": "django-gears",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-systemjs, star:41",
+          "description": "Django SystemJS 将 Javascript 的未来版本带到当前的 Django 中。(JSPM 与 Django 集成)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2016-12-14T11:38:31Z",
+            "owner": "sergei-maertens",
+            "repo": "django-systemjs",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "资源管理"
+    },
+    {
+      "description": "增强或扩展了 Django 认证方法的相关包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-allauth, star:3000",
+          "description": "一套完整的 Django 应用，解决认证，注册，帐户管理及第三方（社交）帐户认证。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T14:33:01Z",
+            "owner": "pennersr",
+            "repo": "django-allauth",
+            "stars": 10366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-social-auth, star:2639",
+          "description": "Python Social Auth 是一个很容易设置的社交认证/注册机制，它支持多个框架和认证提供商。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-01T19:07:30Z",
+            "owner": "omab",
+            "repo": "python-social-auth",
+            "stars": 2801
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-rest-auth, star:793",
+          "description": "一组 REST API，用于处理用户注册和认证任务。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-13T16:33:25Z",
+            "owner": "Tivix",
+            "repo": "django-rest-auth",
+            "stars": 2417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-two-factor-auth, star:391",
+          "description": "用户友好的双因子认证。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:42:05Z",
+            "owner": "jazzband",
+            "repo": "django-two-factor-auth",
+            "stars": 1876
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-organizations, star:338",
+          "description": "Django 项目的多用户帐户功能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T07:20:15Z",
+            "owner": "bennylope",
+            "repo": "django-organizations",
+            "stars": 1362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-userena, star:1171",
+          "description": "Django 的帐户应用，使用极其简单。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-09-17T11:56:40Z",
+            "owner": "bread-and-pepper",
+            "repo": "django-userena",
+            "stars": 1241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-registration, star:554",
+          "description": "一个简单的 Django 用户注册应用，意在使用户注册过程尽可以简单。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-09T09:33:20Z",
+            "owner": "macropin",
+            "repo": "django-registration",
+            "stars": 971
+          }
+        }
+      ],
+      "title": "认证"
+    },
+    {
+      "description": "与授权基础设施和权限相关的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-guardian, star:1412",
+          "description": "实现对象级别的权限，来用作授权后端。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T03:53:44Z",
+            "owner": "django-guardian",
+            "repo": "django-guardian",
+            "stars": 3910
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-oauth-toolkit, star:963",
+          "description": "Django 用来集成 OAuth2 的好东西。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T13:37:43Z",
+            "owner": "django-oauth",
+            "repo": "django-oauth-toolkit",
+            "stars": 3333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-rules, star:431",
+          "description": "一个微型但强大的应用，为 Django 提供了对象级别的权限，它无需使用数据。其核心是一个用于构建基于规则的系统的通用框架，类似决策树。它也可以以独立库的形式使用在其它上下文和框架中。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-11T06:42:08Z",
+            "owner": "dfunckt",
+            "repo": "django-rules",
+            "stars": 1977
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-oauth2-provider, star:304",
+          "description": "为你的应用提供 OAuth2 访问。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-12T23:29:21Z",
+            "owner": "caffeinehit",
+            "repo": "django-oauth2-provider",
+            "stars": 337
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-permission, star:227",
+          "description": "一个增强的权限库，它能使用 基于逻辑的权限系统 来处理 Django 中的复杂权限问题。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-03-04T10:19:58Z",
+            "owner": "jazzband",
+            "repo": "django-permission",
+            "stars": 302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-oml, star:10",
+          "description": "Object Moderation Layer, mixin for models that allows you moderate several content types.（2 年未更新）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:31:53Z",
+            "owner": "angvp",
+            "repo": "django-oml",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "授权"
+    },
+    {
+      "description": "用于创建和管理 blog 应用的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-blog-zinnia, star:1430",
+          "description": "一个简单而且强大，又非常容易扩展的应用，用于管理 Django 网站中的 blog。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-03T19:19:17Z",
+            "owner": "Fantomas42",
+            "repo": "django-blog-zinnia",
+            "stars": 2125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "puput, star:184",
+          "description": "一个 用 Wagtail 实现的 Django blog 应用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T22:24:53Z",
+            "owner": "APSL",
+            "repo": "puput",
+            "stars": 659
+          }
+        }
+      ],
+      "title": "Blog 管理"
+    },
+    {
+      "description": "有关可快速开启一个新项目的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cookiecutter, star:4912",
+          "description": "一个可根据 cookiecutters (项目模板）创建新项目的命令行工具。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-01T17:46:44Z",
+            "owner": "cookiecutter",
+            "repo": "cookiecutter",
+            "stars": 25055
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-hackathon-starter, star:996",
+          "description": "一个 Django Web 应用的样板，包含多种社交认证方法和多个流行的 API 示例（1 年未更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-05T08:19:30Z",
+            "owner": "DrkSephy",
+            "repo": "django-hackathon-starter",
+            "stars": 1615
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "edge, star:456",
+          "description": "一个 非常现代化非常先进的 Django 项目骨架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-11-22T07:43:48Z",
+            "owner": "arocks",
+            "repo": "edge",
+            "stars": 832
+          }
+        }
+      ],
+      "title": "样板"
+    },
+    {
+      "description": "有助于缓存的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-cacheops, star:668",
+          "description": "一个精巧的 ORM 缓存，具有自动化细粒度事件驱动型的失效机制。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-15T14:49:26Z",
+            "owner": "Suor",
+            "repo": "django-cacheops",
+            "stars": 2274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-cachalot, star:453",
+          "description": "对你的 Django ORM 进行缓存，并能自动使它们失效。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T19:37:23Z",
+            "owner": "noripyt",
+            "repo": "django-cachalot",
+            "stars": 1426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-redis-cache, star:745",
+          "description": "用于 Django 的 Redis 缓存后端。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-27T19:13:04Z",
+            "owner": "sebleier",
+            "repo": "django-redis-cache",
+            "stars": 1041
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-cache-machine, star:659",
+          "description": "能在 ORM 中的 Django 数据模型自动进行缓存和使其失效（1 年未更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-20T18:13:51Z",
+            "owner": "django-cache-machine",
+            "repo": "django-cache-machine",
+            "stars": 884
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "johnny-cache, star:265",
+          "description": "Johnny Cache 是一个用于 Django 应用的缓存框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-06-10T17:36:40Z",
+            "owner": "jmoiron",
+            "repo": "johnny-cache",
+            "stars": 310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-ormcache, star:13",
+          "description": "一个缓存管理器 mixin，提供了一些 ORM 对象的缓存功能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-27T02:19:40Z",
+            "owner": "educreations",
+            "repo": "django-ormcache",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-memoize, star:46",
+          "description": "Django 中 记忆(memoization) 技术的一种实现。",
+          "children": []
+        }
+      ],
+      "title": "缓存"
+    },
+    {
+      "description": "有助于保存可重用性 app 在不同的 Django 版本间保存兼容性的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-compat, star:91",
+          "description": "为官方支持的 Django 版本提供向前和向后兼容层。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-05-21T14:33:38Z",
+            "owner": "arteria",
+            "repo": "django-compat",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-compat-lint, star:36",
+          "description": "为你的代理检查 Django 兼容性（2 年未更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2015-08-13T07:50:42Z",
+            "owner": "ubernostrum",
+            "repo": "django-compat-lint",
+            "stars": 38
+          }
+        }
+      ],
+      "title": "兼容性"
+    },
+    {
+      "description": "有于支持第三方数据库或添加数据库特定功能的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-mysql, star:127",
+          "description": "一个 Django 扩展，以使用 MySQL/MariaDB。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T21:45:21Z",
+            "owner": "adamchainz",
+            "repo": "django-mysql",
+            "stars": 589
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-postgres-fuzzycount, star:55",
+          "description": "在 Django 中使用快速 / 模糊的 PostgreSQL count 操作。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-06T18:45:11Z",
+            "owner": "stephenmcd",
+            "repo": "django-postgres-fuzzycount",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dj-database-url, star:562",
+          "description": "在你的 Django 应用中使用数据库 URL。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-04-12T19:37:51Z",
+            "owner": "kennethreitz",
+            "repo": "dj-database-url",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-postgrespool, star: 259",
+          "description": "用于 Django 的 Postgres 连接池，基于 SQLAlchemy。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2022-08-06T03:10:34Z",
+            "owner": "kennethreitz",
+            "repo": "django-postgrespool",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "数据库"
+    },
+    {
+      "description": "有助于查找 Bug 的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sentry, star:12408",
+          "description": "一个现代的错误记录和聚合平台。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T02:27:58Z",
+            "owner": "getsentry",
+            "repo": "sentry",
+            "stars": 44539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-debug-toolbar, star:4136",
+          "description": "可配置的一组面板，可显示有关当前请求/应答中的许多调试信息。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T21:28:11Z",
+            "owner": "django-commons",
+            "repo": "django-debug-toolbar",
+            "stars": 8378
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-silk, star:905",
+          "description": "Django 中非常易用的剖析工具。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T04:03:46Z",
+            "owner": "jazzband",
+            "repo": "django-silk",
+            "stars": 4988
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-devserver, star:1190",
+          "description": "Django 内置 runserver 的简单替代者（1 年未更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-26T17:37:11Z",
+            "owner": "dcramer",
+            "repo": "django-devserver",
+            "stars": 1266
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nplusone, star:262",
+          "description": "自动检测 Django（及其它 ORM）中的 n+1 查询问题。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-11-25T10:57:53Z",
+            "owner": "jmcarp",
+            "repo": "nplusone",
+            "stars": 1068
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-querycount, star:83",
+          "description": "一个中间件，用于将数据库查询数输出来 runserver 命令行中。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-29T09:35:31Z",
+            "owner": "bradmontgomery",
+            "repo": "django-querycount",
+            "stars": 408
+          }
+        }
+      ],
+      "title": "调试"
+    },
+    {
+      "description": "有助于管理邮件发送的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-post_office, star:331",
+          "description": "一个用于发送和管理邮件的简单 Django 应用，支持模板，并能很容易与任务队伍集成。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T07:23:00Z",
+            "owner": "ui",
+            "repo": "django-post_office",
+            "stars": 1092
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-ses, star:475",
+          "description": "使用 Amazon Simple Email Service 的 Django 邮件后端。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-19T21:34:05Z",
+            "owner": "django-ses",
+            "repo": "django-ses",
+            "stars": 1087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-templated-email, star:291",
+          "description": "一个 Django 模板，能很容易地发送模板型邮件，可以使用 django 模板，或事务型邮件提供商（如 mailchimp, silverpop 等）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-29T13:37:31Z",
+            "owner": "vintasoftware",
+            "repo": "django-templated-email",
+            "stars": 785
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-drip, star:543",
+          "description": "Django Admin based management for drip email campaigns（2 年未更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-10-27T09:55:50Z",
+            "owner": "zapier",
+            "repo": "django-drip",
+            "stars": 638
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-celery-email, star:146",
+          "description": "一个 Django 邮件后端，使用 celery 任务来发送邮件。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-03-05T03:03:33Z",
+            "owner": "pmclanahan",
+            "repo": "django-celery-email",
+            "stars": 469
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "djrill, star:354",
+          "description": "一个使用 MailChimp 的 Mandrill 事务型邮件邮件的邮件后端。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-03-08T01:58:34Z",
+            "owner": "brack3t",
+            "repo": "Djrill",
+            "stars": 314
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-db-mailer, star:156",
+          "description": "一个 Django 模块，能很容易地发送使用 Django 模板 的邮件/短信/push/tss 信息，而模板存于数据库中并通过 Django 管理后面管理。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-27T21:17:14Z",
+            "owner": "LPgenerator",
+            "repo": "django-db-mailer",
+            "stars": 253
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-mailgun, star:205",
+          "description": "使用 Mailgun 的 Django 邮件后端。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-03-08T00:10:34Z",
+            "owner": "BradWhittington",
+            "repo": "django-mailgun",
+            "stars": 214
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-email-extras, star:67",
+          "description": "多种邮件工具: PGP 加密, multipart 模板, 浏览器测试后端等。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-21T11:46:57Z",
+            "owner": "stephenmcd",
+            "repo": "django-email-extras",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "djmail, star:58",
+          "description": "一个简单且非阻塞式的 django 邮件中间件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-28T16:53:52Z",
+            "owner": "bameda",
+            "repo": "djmail",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-yubin, star:22",
+          "description": "django-mailer2 + django-mailviews，及其它功能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-11T10:44:41Z",
+            "owner": "APSL",
+            "repo": "django-yubin",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-spoolgore, star:5",
+          "description": "使用 Spoolgore daemon 的 django 邮件后端（3 年未更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2014-05-30T11:00:23Z",
+            "owner": "20tab",
+            "repo": "django-spoolgore",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Email"
+    },
+    {
+      "description": "与扩展现有项类型功能或添加新项类型有关的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-imagekit, star:1154",
+          "description": "在 Django 中自动处理图像。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-12T09:48:34Z",
+            "owner": "matthewwithanm",
+            "repo": "django-imagekit",
+            "stars": 2349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-phonenumber-field, star:383",
+          "description": "一个可以与 python-phonenumbers 交互的 Django 库，以用来验证、格式输出和转换手机号码。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:59:51Z",
+            "owner": "django-phonenumber-field",
+            "repo": "django-phonenumber-field",
+            "stars": 1551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-countries, star:359",
+          "description": "为表单提供国家选择，也基于国旗选择，还提供一个 CountryField。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-10T00:39:36Z",
+            "owner": "SmileyChris",
+            "repo": "django-countries",
+            "stars": 1533
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-location-field, star:266",
+          "description": "一个位置项及其组件，并与 google 地图集成。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-21T14:31:02Z",
+            "owner": "caioariede",
+            "repo": "django-location-field",
+            "stars": 570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-versatileimagefield, star:230",
+          "description": "django ImageField 的简单替代品，并提供了一个灵活、直观、易扩展的接口来快速地根据指定的图像创建一个表单项。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-21T16:22:05Z",
+            "owner": "respondcreate",
+            "repo": "django-versatileimagefield",
+            "stars": 538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-bitfield, star:282",
+          "description": "Django 数据模型的一个扩展，A BitField。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T16:34:53Z",
+            "owner": "disqus",
+            "repo": "django-bitfield",
+            "stars": 383
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-uuidfield, star:261",
+          "description": "用于 Django 的 UUIDField（2 年未更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-02-09T16:56:43Z",
+            "owner": "dcramer",
+            "repo": "django-uuidfield",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-enumfield, star:99",
+          "description": "基于命名常数列表的 Django 定制数据项（1 看未更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-12T18:58:57Z",
+            "owner": "5monkeys",
+            "repo": "django-enumfield",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-picklefield, star:92",
+          "description": "用于 Django 的序列化对象项（pickled object field）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-27T02:57:48Z",
+            "owner": "gintas",
+            "repo": "django-picklefield",
+            "stars": 185
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-audiofield, star:91",
+          "description": "允许对音频文件进行上传，管理，将转换成不同的音频格式 (mp3, wav & ogg)。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-20T08:03:23Z",
+            "owner": "areski",
+            "repo": "django-audiofield",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-searchable-select, star:29",
+          "description": "一个更好更快的多选组件，并附有提示功能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-25T11:49:10Z",
+            "owner": "and3rson",
+            "repo": "django-searchable-select",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-macaddress, star:25",
+          "description": "在 Django 中使用的 MAC 地址数据模型及其表单项。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T08:44:01Z",
+            "owner": "django-macaddress",
+            "repo": "django-macaddress",
+            "stars": 57
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-image-tools, star:36",
+          "description": "在 Django 中处理图像的包(1 看未更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-03T20:52:40Z",
+            "owner": "bonsaistudio",
+            "repo": "django-image-tools",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "数据项"
+    },
+    {
+      "description": "用于在项目间或用户间传输文件的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-sendfile, star:311",
+          "description": "这是对特定于 Web 服务器的方法的一个封闭器，用来将文件发送给 Web 客户端。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-20T22:10:20Z",
+            "owner": "johnsensible",
+            "repo": "django-sendfile",
+            "stars": 488
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-downloadview, star:129",
+          "description": "用 Django 提供文件服务。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:42:24Z",
+            "owner": "jazzband",
+            "repo": "django-downloadview",
+            "stars": 401
+          }
+        }
+      ],
+      "title": "文件传输"
+    },
+    {
+      "description": "扩展表单功能或添加亲的表单类型的相关包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-crispy-forms, star:2756",
+          "description": "实现 DRY Django 表单的最好方式。该应用提供的 Tag 和 Filter 能让你快速将表单呈现成 div 格式，同时又提供大量的功能来配置和控制呈现的 HTML。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T11:10:33Z",
+            "owner": "django-crispy-forms",
+            "repo": "django-crispy-forms",
+            "stars": 5160
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-bootstrap3, star:1731",
+          "description": "以 Django 的方式，在 Django 模板中使用 Bootstrap。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T04:14:36Z",
+            "owner": "zostera",
+            "repo": "django-bootstrap3",
+            "stars": 2332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-autocomplete-light, star:794",
+          "description": "django-autocomplete-light 的目标是在 Django 项目中快速而适当地实现自动填充功能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T18:11:55Z",
+            "owner": "yourlabs",
+            "repo": "django-autocomplete-light",
+            "stars": 1870
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-floppyforms, star:681",
+          "description": "django-floppyforms 这个应用能让你完全控制表单的呈现结果。表单 API 和功能与 Django 的完全相同，主要的不同在同它的表单项和表单组件是在模板中呈现的，而不是使用字符串处理完成，因此它能让你在使用 Django 模板中完成控制输出的结果。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-04T11:48:49Z",
+            "owner": "jazzband",
+            "repo": "django-floppyforms",
+            "stars": 838
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-bootstrap-form, star:485",
+          "description": "将 Twitter Bootstrap 使用到 Django 表单中。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2024-03-07T06:44:27Z",
+            "owner": "tzangms",
+            "repo": "django-bootstrap-form",
+            "stars": 558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-markdownify, star:35",
+          "description": "Django Markdownify 模板过滤器用于将 Markdown 文本转成 HTML。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-18T06:54:17Z",
+            "owner": "erwinmatijsen",
+            "repo": "django-markdownify",
+            "stars": 130
+          }
+        }
+      ],
+      "title": "表单"
+    },
+    {
+      "description": "能更容易与地理信息系统项目协作的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "djangorestframework-gis, star:372",
+          "description": "Django REST 框架的地理信息扩展。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T20:28:21Z",
+            "owner": "openwisp",
+            "repo": "django-rest-framework-gis",
+            "stars": 1125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-location-field, star:266",
+          "description": "一个位置项及其组件，并与 google 地图集成。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-21T14:31:02Z",
+            "owner": "caioariede",
+            "repo": "django-location-field",
+            "stars": 570
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-geoposition, star:261",
+          "description": "一个数据模型项，可用来保存地理信息(经度/纬度)，并提供相应的后台管理/表单组件。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-03-17T18:59:57Z",
+            "owner": "philippbosch",
+            "repo": "django-geoposition",
+            "stars": 332
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-spillway, star:42",
+          "description": "Django REST 框架的 Geodata 扩展。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-06T19:41:57Z",
+            "owner": "bkg",
+            "repo": "django-spillway",
+            "stars": 62
+          }
+        }
+      ],
+      "title": "GIS"
+    },
+    {
+      "description": "用于处理，修改或转换图片的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-image-cropping, star:386",
+          "description": "一个协助应用，能很容易地为后台或前端非破坏性的剪切任意大图片。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-05T10:40:13Z",
+            "owner": "jonasundderwolf",
+            "repo": "django-image-cropping",
+            "stars": 550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-versatileimagefield, star:230",
+          "description": "django ImageField 的简单替代品，并提供了一个灵活、直观、易扩展的接口来快速地根据指定的图像创建一个表单项。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-21T16:22:05Z",
+            "owner": "respondcreate",
+            "repo": "django-versatileimagefield",
+            "stars": 538
+          }
+        }
+      ],
+      "title": "图片处理"
+    },
+    {
+      "description": "能在项目中加载、导入或导出数据的包。",
+      "items": [],
+      "title": "导入/导出"
+    },
+    {
+      "description": "用于支持 iOS, Android 及其它移动端的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-push-notifications, star:911",
+          "description": "一个微型 Django 应用，它实现了 Device 数据模型，可通过 APNS 和 GCM 发送消息。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T16:04:01Z",
+            "owner": "jazzband",
+            "repo": "django-push-notifications",
+            "stars": 2389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-pushy, star:157",
+          "description": "一个 Django 应用，使用 celery 来提供推送功能。该应用的主要目的是帮助你批量向你的用户发送推送消息。如果你有多个已注册的设备码(registered device keys)，django-pushy 会将设备码分成小组，从而加快消息的发送过程。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2017-11-05T12:39:28Z",
+            "owner": "rakanalh",
+            "repo": "django-pushy",
+            "stars": 166
+          }
+        }
+      ],
+      "title": "移动端支持"
+    },
+    {
+      "description": "能扩展数据模型功能或添加新数据模型类的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-mptt, star:1439",
+          "description": "用来在 Django 中实现一个修订版的先序遍历树的工具集。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T11:06:20Z",
+            "owner": "django-mptt",
+            "repo": "django-mptt",
+            "stars": 2972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-model-utils, star:1126",
+          "description": "Django 数据模型的 mixins 和工具集，例如 TimeStampedModel。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:41:44Z",
+            "owner": "jazzband",
+            "repo": "django-model-utils",
+            "stars": 2762
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-treebeard, star:370",
+          "description": "Django 中树数据结构的另一种实现(提供了 3 种不同的层级数据排序方法，包括 MPTT )。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T07:07:00Z",
+            "owner": "django-treebeard",
+            "repo": "django-treebeard",
+            "stars": 1216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-localflavor, star:290",
+          "description": "与国家信息有关的 Django 辅助包，即原先的 fame 贡献包。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T13:15:44Z",
+            "owner": "django",
+            "repo": "django-localflavor",
+            "stars": 922
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-aggregate-if, star:125",
+          "description": "对 Django 查询进行条件聚合，就如 Excel 中的 SumIf 和 CountIf（2 年未更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-09-27T17:37:23Z",
+            "owner": "henriquebastos",
+            "repo": "django-aggregate-if",
+            "stars": 139
+          }
+        }
+      ],
+      "title": "数据模型扩展"
+    },
+    {
+      "description": "与支付处理提供商集成有关的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-merchant, star:862",
+          "description": "一个 Django 应用，为多个可插拔支付后端提供了辅助工具（2 年未更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-08T19:12:50Z",
+            "owner": "agiliq",
+            "repo": "merchant",
+            "stars": 1021
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-paypal, star:378",
+          "description": "一个可插拔的 Django 应用，进于集成 PayPal 标准支持和高级支付功能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:02:15Z",
+            "owner": "spookylukey",
+            "repo": "django-paypal",
+            "stars": 729
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-zebra, star:177",
+          "description": "表单，组件，模板标签及模板，以使 Stripe + Django 更容易(3 年未更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-09T07:11:03Z",
+            "owner": "GoodCloud",
+            "repo": "django-zebra",
+            "stars": 192
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-oscar-paypal, star:70",
+          "description": "PayPal 集成进 django-oscar。也可以独立于 Oscar 使用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-01T08:59:49Z",
+            "owner": "django-oscar",
+            "repo": "django-oscar-paypal",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-pinpayments, star:19",
+          "description": "可简化使用 Pin 的支付过程的 Django 库（1 年未更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-07-04T22:44:41Z",
+            "owner": "rossp",
+            "repo": "django-pinpayments",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-oscar-adyen, star:5",
+          "description": "这个包提供了与 Adyen 支付网关的集成功能。它意在与电子商务框架 django-oscar 进行无缝对接，但也可以独立于 Oscar 使用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-31T00:13:45Z",
+            "owner": "django-oscar",
+            "repo": "django-oscar-adyen",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-oscar-paymentexpress, star:6",
+          "description": "这个包提供了与 PaymentExpress 支付网关（使用它们的 PX POST API）的集成功能。它意在与电子商务框架 django-oscar 进行无缝对接，但也可以独立于 Oscar 使用（5 年未更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2012-08-29T07:23:32Z",
+            "owner": "django-oscar",
+            "repo": "django-oscar-paymentexpress",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dj-stripe, star:370",
+          "description": "使得 Django + Stripe 更容易。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-02-14T06:22:30Z",
+            "owner": "pydanny",
+            "repo": "dj-stripe",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "支付处理"
+    },
+    {
+      "description": "创建报表相关的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WeasyPrint, star:3.7K",
+          "description": "WeasyPrint 是 Web 开发人才创建 PDF 文档的智能方案。它能将简单的 HTML 页面转换成精致的统计报表、收据等。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T06:27:15Z",
+            "owner": "Kozea",
+            "repo": "WeasyPrint",
+            "stars": 9490
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-report-builder, star:453",
+          "description": "Django ORM 的一个用户界面。能构建自定义的查询并显示结果。目标用户是系统管理员及不会编程的终端用户。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-20T18:27:03Z",
+            "owner": "burke-software",
+            "repo": "django-report-builder",
+            "stars": 768
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-model-report, star:156",
+          "description": "一个集成了 highcharts 的 Django 报表应用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-06-10T17:38:49Z",
+            "owner": "juanpex",
+            "repo": "django-model-report",
+            "stars": 216
+          }
+        }
+      ],
+      "title": "报表"
+    },
+    {
+      "description": "开发 REST API 的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-rest-swagger, star:1465",
+          "description": "Django REST 框架的 Swagger 文档生成器。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-12-14T12:00:00Z",
+            "owner": "marcgibbons",
+            "repo": "django-rest-swagger",
+            "stars": 2571
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-rest-auth, star:793",
+          "description": "该应用将所有与注册和验证相关的功能都以 CBV (Class Base View) 和 REST (JSON) 的形式提供，从而使用它来构建 Django SPA (Single Page App) 或移动应用是极其方便的。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-13T16:33:25Z",
+            "owner": "Tivix",
+            "repo": "django-rest-auth",
+            "stars": 2417
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "restless, star:601",
+          "description": "一个在 Python 中使用的轻量级 REST 微框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-15T13:40:52Z",
+            "owner": "toastdriven",
+            "repo": "restless",
+            "stars": 823
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "drfdocs, star:342",
+          "description": "为使用 Django REST 框架开发的 Web API 提供文档。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-11T09:27:44Z",
+            "owner": "manosim",
+            "repo": "django-rest-framework-docs",
+            "stars": 642
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-nap, star:176",
+          "description": "实现对象序列化，RESTful 视图和 RPC 视图的一种极简方式。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-31T23:15:45Z",
+            "owner": "funkybob",
+            "repo": "django-nap",
+            "stars": 223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-rest-localflavor, star:11",
+          "description": "用于 Django Rest 框架的一些本地化相关序列化器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-26T20:15:03Z",
+            "owner": "gilsondev",
+            "repo": "django-rest-localflavor",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "RESTful API"
+    },
+    {
+      "description": "为项目提供搜索能力的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-haystack, star:2181",
+          "description": "Django 中的模块化搜索包。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T21:51:44Z",
+            "owner": "django-haystack",
+            "repo": "django-haystack",
+            "stars": 3739
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-watson, star:577",
+          "description": "快速的多数据模式的全文搜索插件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-14T11:09:08Z",
+            "owner": "etianen",
+            "repo": "django-watson",
+            "stars": 1248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "djorm-ext-pgfulltext, star:237",
+          "description": "PostgreSQL 全文搜索与 django orm 整合（1 年未更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-10T11:28:56Z",
+            "owner": "linuxlewis",
+            "repo": "djorm-ext-pgfulltext",
+            "stars": 251
+          }
+        }
+      ],
+      "title": "搜索"
+    },
+    {
+      "description": "用于改善项目安全性的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-axes, star:315",
+          "description": "是一种用于记录失败登录尝试的简单方法，即可用于 Django 管理后台，也可用于你的应用系统。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T12:02:53Z",
+            "owner": "jazzband",
+            "repo": "django-axes",
+            "stars": 1699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-admin-honeypot, star:363",
+          "description": "一个伪装的 Django 管理后台登录界面，用来向管理员发送未授权访问尝试信息。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-10T14:22:38Z",
+            "owner": "dmpayton",
+            "repo": "django-admin-honeypot",
+            "stars": 1085
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-secure, star:489",
+          "description": "提醒你通过完成一些简单地任务来提高你的 Django 网站的安全性，该项目已整合入 Django 1.8+，故不再维护（2 年未更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-03-31T23:31:09Z",
+            "owner": "carljm",
+            "repo": "django-secure",
+            "stars": 458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-stronghold, star:227",
+          "description": "Stronghold 是一个中间件，用来默认将你的所有视图导向 login required。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-24T19:39:30Z",
+            "owner": "mgrouchy",
+            "repo": "django-stronghold",
+            "stars": 396
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-sslify, star:287",
+          "description": "在你的 Django 网站上强制使用 SSL。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-11-15T12:09:09Z",
+            "owner": "rdegges",
+            "repo": "django-sslify",
+            "stars": 331
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-sudo, star:235",
+          "description": "Sudo 模式是你的最敏感页面的一个额外安全层。这是 Django 中的 GitHub Sudo 模式的一种实现。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-13T17:09:08Z",
+            "owner": "mattrobenolt",
+            "repo": "django-sudo",
+            "stars": 279
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-security, star:108",
+          "description": "一组数据模型，视图、中间件和表单，用来加固 Django 项目的安全性。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-20T14:46:48Z",
+            "owner": "sdelements",
+            "repo": "django-security",
+            "stars": 274
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-debreach, star:67",
+          "description": "为你的 Django 应用提供 BREACH 防御。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-07-09T16:22:04Z",
+            "owner": "lpomfrey",
+            "repo": "django-debreach",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-secure-auth, star:23",
+          "description": "通过 TOTP, 短信, 代码 & 答案等进行安全认证。能根据 IP 和 captcha 进行登录保护。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-26T20:20:35Z",
+            "owner": "gotlium",
+            "repo": "django-secure-auth",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-password-session, star:10",
+          "description": "当修改密码后会使所有活跃会话全部失效(Django 1.7+ 中已有此功能)（2 年未更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2015-02-20T05:05:02Z",
+            "owner": "atugushev",
+            "repo": "django-password-session",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "安全性"
+    },
+    {
+      "description": "*帮助改善项目 SEO ( 搜索引擎优化 ) 的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-meta, star:144",
+          "description": "一个可插拔的应用，Django 开发人员可以用它来快速地将 meta 标签和 OpenGraph, Twitter, 和 Google Plus 属性添加到他们的 HTML 页面中。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T21:09:48Z",
+            "owner": "nephila",
+            "repo": "django-meta",
+            "stars": 553
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-robots, star:205",
+          "description": "一个用于管理 robots.txt 文件的应用，它遵循 robots 扩展协议。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:42:07Z",
+            "owner": "jazzband",
+            "repo": "django-robots",
+            "stars": 475
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-seo2, star:34",
+          "description": "提供了一组工具来管理 Django 站点的搜索引擎优化 (SEO) 元数据。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-10T17:01:55Z",
+            "owner": "romansalin",
+            "repo": "django-seo2",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "SEO"
+    },
+    {
+      "description": "用来管理项目的配置的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-environ, star:667",
+          "description": "能让你使用 12factor 的环境变量来配置你的 Django 应用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T17:43:42Z",
+            "owner": "joke2k",
+            "repo": "django-environ",
+            "stars": 3163
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python-decouple, star:386",
+          "description": "严格地将配置与代码分离。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-28T20:56:27Z",
+            "owner": "HBNetwork",
+            "repo": "python-decouple",
+            "stars": 3039
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-constance, star:730",
+          "description": "一个能将动态设置信息存储在可插拔后端（内置 Redis 和 Django 数据模型后端）的 Django 应用，并已与 Django 后台管理应用整合。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T14:08:00Z",
+            "owner": "jazzband",
+            "repo": "django-constance",
+            "stars": 1852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-split-settings, star:131",
+          "description": "将 Django 设置信息组织到多个文件和目录中。能容易地实现对设置的覆盖和修改。能使用通配符和可选的设置文件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T05:50:37Z",
+            "owner": "wemake-services",
+            "repo": "django-split-settings",
+            "stars": 1199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-configurations, star:512",
+          "description": "一个依据广为接受的编程模式来组织 Django 项目配置信息的辅助包。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-15T20:21:25Z",
+            "owner": "jazzband",
+            "repo": "django-configurations",
+            "stars": 1135
+          }
+        }
+      ],
+      "title": "设置"
+    },
+    {
+      "description": "扩展了现有存储后端的功能或提供新存储后端的相关包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-queued-storage, star:245",
+          "description": "为 Django 存储后端提供了代理功能，从而使你能像在本地一样上传文件，但最终是保存在远程。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-16T12:06:21Z",
+            "owner": "jazzband",
+            "repo": "django-queued-storage",
+            "stars": 321
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-selectel-storage, star:10",
+          "description": "使用该应用能容易地将媒体或静态文件保存到 Selectel 云存储上。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-31T06:36:15Z",
+            "owner": "marazmiki",
+            "repo": "django-selectel-storage",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-webdav-storage, star:11",
+          "description": "Django 存储后端，能将文件存储在自定义的 WebDAV 存储中。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-13T15:08:19Z",
+            "owner": "marazmiki",
+            "repo": "django-webdav-storage",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-dynamic-preferences, star:75",
+          "description": "为你的 Django 项目实现动态、全局的实例设置。",
+          "children": []
+        }
+      ],
+      "title": "存储"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-taggit, star:1644",
+          "description": "Django 的简单标签应用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-29T17:32:46Z",
+            "owner": "jazzband",
+            "repo": "django-taggit",
+            "stars": 3444
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-taggit-helpers, star:17",
+          "description": "django-taggit 标签的 Django 后台管理辅助类（1 年未更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-28T14:05:25Z",
+            "owner": "mfcovington",
+            "repo": "django-taggit-helpers",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "标签"
+    },
+    {
+      "description": "能更容易使用任务/后台队队的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "huey, star:1190",
+          "description": "一个 Python 中的小型多线程任务队列。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T12:51:06Z",
+            "owner": "coleifer",
+            "repo": "huey",
+            "stars": 6005
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-rq, star:620",
+          "description": "在你的 Django 项目监测和使用 RQ 的最简单方法。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T04:52:49Z",
+            "owner": "rq",
+            "repo": "django-rq",
+            "stars": 1950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-q, star:477",
+          "description": "一个 Django 多进程任务队列。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-13T12:14:42Z",
+            "owner": "Koed00",
+            "repo": "django-q",
+            "stars": 1877
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-celery, star:1011",
+          "description": "Celery 与 Django 集成。(Celery 3.1+ 已不再需要该包)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-20T12:16:49Z",
+            "owner": "celery",
+            "repo": "django-celery",
+            "stars": 1552
+          }
+        }
+      ],
+      "title": "任务队列"
+    },
+    {
+      "description": "有助于测试代码或创建测试数据的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "factory_boy, star:2.2k",
+          "description": "factory_boy is a fixtures replacement based on thoughtbot's factory_bot。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-01T19:04:12Z",
+            "owner": "FactoryBoy",
+            "repo": "factory_boy",
+            "stars": 3805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "factory_boy, star:1150",
+          "description": "Python test fixtures 一个替代器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-01T19:04:12Z",
+            "owner": "FactoryBoy",
+            "repo": "factory_boy",
+            "stars": 3805
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "splinter, star:1355",
+          "description": "Web 应用的一个 Python 测试框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-16T15:08:24Z",
+            "owner": "cobrateam",
+            "repo": "splinter",
+            "stars": 2751
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pytest-django, star:308",
+          "description": "pytest 的一个 Django 插件。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T20:42:59Z",
+            "owner": "pytest-dev",
+            "repo": "pytest-django",
+            "stars": 1543
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mixer, star:395",
+          "description": "一个用来产生 Django 或 SQLAlchemy 数据模型实例的应用。能快速便捷地创建测试数据。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-08T09:29:07Z",
+            "owner": "klen",
+            "repo": "mixer",
+            "stars": 955
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-jenkins, star:799",
+          "description": "在 Django 中即插即用 jenkins 进行持续集成。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-03-29T15:06:39Z",
+            "owner": "kmmbvnr",
+            "repo": "django-jenkins",
+            "stars": 937
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "model-mommy, star:660",
+          "description": "为进行更好地测试提供了智能 fixtures。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-10-21T22:05:37Z",
+            "owner": "berinhard",
+            "repo": "model_mommy",
+            "stars": 897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-nose, star:743",
+          "description": "使用 nose 进行测试。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-25T15:56:54Z",
+            "owner": "jazzband",
+            "repo": "django-nose",
+            "stars": 884
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-test-plus, star:208",
+          "description": "增强了 Django 默认的 TestCase 的功能，能极大减少样板代码。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T00:36:50Z",
+            "owner": "revsys",
+            "repo": "django-test-plus",
+            "stars": 632
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-dynamic-fixture, star:252",
+          "description": "可为测试目的动态地创建数据模拟实例。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-10T11:01:49Z",
+            "owner": "paulocheque",
+            "repo": "django-dynamic-fixture",
+            "stars": 387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-faker, star:144",
+          "description": "使用 Fake-factory 来创建测试数据（2 年未更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-01-30T19:25:42Z",
+            "owner": "joke2k",
+            "repo": "django-faker",
+            "stars": 257
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mock-django, star:191",
+          "description": "一个简单的库，能为诸如 ORM 等一些 Django 行为设置模拟信息（1 年未更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-31T07:40:27Z",
+            "owner": "dcramer",
+            "repo": "mock-django",
+            "stars": 226
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "behave-django, star:29",
+          "description": "将行为驱动开发 (Behave BDD) 集成到 Django 中。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-07T13:48:59Z",
+            "owner": "behave",
+            "repo": "behave-django",
+            "stars": 215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-behave, star:173",
+          "description": "Behave BDD 模块的 TestRunner。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-22T11:46:44Z",
+            "owner": "django-behave",
+            "repo": "django-behave",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-slowtests, star:106",
+          "description": "定位出最慢的测试。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-23T00:28:05Z",
+            "owner": "realpython",
+            "repo": "django-slow-tests",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-selenium, star:84",
+          "description": "支持用 Selenium 测试。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-24T08:27:29Z",
+            "owner": "dragoon",
+            "repo": "django-selenium",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-shotgun, star:8",
+          "description": "测试整个 Django 网站（3 年未更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-24T07:37:56Z",
+            "owner": "stephenmcd",
+            "repo": "django-shotgun",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lettuce-django-terrain, star:12",
+          "description": "用于 Django 项目中 lettuce 的 Terrain 文件（5 年未更新，但 lettuce 网站上的代码框显示很赞）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2012-01-18T10:28:35Z",
+            "owner": "stringfellow",
+            "repo": "lettuce-django-terrain",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "测试"
+    },
+    {
+      "description": "用于创建缩略图的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sorl-thumbnail, star:1050",
+          "description": "用于 Django 的缩略图应用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T17:42:19Z",
+            "owner": "jazzband",
+            "repo": "sorl-thumbnail",
+            "stars": 1795
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "easy-thumbnails, star:898",
+          "description": "一个易用的 Django 缩略图应用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-06T21:53:06Z",
+            "owner": "SmileyChris",
+            "repo": "easy-thumbnails",
+            "stars": 1410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-versatileimagefield, star:230",
+          "description": "Django ImageField 的简单替代器，它提供了一个灵活易用、易扩展的接口，能根据数据项中设置的图片快速地创建新的图片。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-21T16:22:05Z",
+            "owner": "respondcreate",
+            "repo": "django-versatileimagefield",
+            "stars": 538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-stdimage, star:125",
+          "description": "用于 Django 的缩略图和图像工具。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-06-17T21:23:47Z",
+            "owner": "codingjoe",
+            "repo": "django-stdimage",
+            "stars": 261
+          }
+        }
+      ],
+      "title": "缩略图"
+    },
+    {
+      "description": "有助于翻译工程项目的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-modeltranslation, star:483",
+          "description": "将现有 Django 数据模型中的动态数据翻译成任何的语言，而无需修改原来的数据模型类。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-14T05:20:08Z",
+            "owner": "deschler",
+            "repo": "django-modeltranslation",
+            "stars": 1481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-rosetta, star:608",
+          "description": "Rosetta 是一个 ango 应用，它使你的 Django 项目的翻译过程更加容易。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T09:05:25Z",
+            "owner": "mbi",
+            "repo": "django-rosetta",
+            "stars": 1158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-parler, star:236",
+          "description": "简单的 Django 数据模型翻译工具，没有奇技淫巧。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T20:58:00Z",
+            "owner": "django-parler",
+            "repo": "django-parler",
+            "stars": 733
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-hvad, star:417",
+          "description": "可在 django 中进行轻松地翻译，使用通常的 ORM。能很容易集成到现存的项目和应用中。能从 django-multilingual-ng 很容易地转换过来。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-02T15:20:14Z",
+            "owner": "KristianOellegaard",
+            "repo": "django-hvad",
+            "stars": 534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-klingon, star:35",
+          "description": "意在能 django 数据模型的翻译更加容易（2 年未更新）。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:30:40Z",
+            "owner": "angvp",
+            "repo": "django-klingon",
+            "stars": 36
+          }
+        }
+      ],
+      "title": "翻译"
+    },
+    {
+      "description": "用于增强或提供新的视图类的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-extra-views, star:593",
+          "description": "Django 的基于类的通用视图都很赞，那就再实现一些。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-28T07:04:07Z",
+            "owner": "AndrewIngram",
+            "repo": "django-extra-views",
+            "stars": 1436
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-vanilla-views, star:656",
+          "description": "一些非常简洁的基于类的视图。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-14T02:38:33Z",
+            "owner": "encode",
+            "repo": "django-vanilla-views",
+            "stars": 986
+          }
+        }
+      ],
+      "title": "视图"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-angular, star:1074",
+          "description": "使 AngularJS 与 Django 整合。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-11-13T22:41:50Z",
+            "owner": "jrief",
+            "repo": "django-angular",
+            "stars": 1218
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-js-reverse, star:331",
+          "description": "一个 Django 应用，实现 Javascript url 处理。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-08-30T09:29:15Z",
+            "owner": "ierror",
+            "repo": "django-js-reverse",
+            "stars": 542
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-bower, star:491",
+          "description": "使在 Django 项目中使用 bower 更加容易。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-28T21:09:38Z",
+            "owner": "nvbn",
+            "repo": "django-bower",
+            "stars": 515
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "djangular, star:214",
+          "description": "一个可复用的 Django app，为 Angular.js 提供了更好的集成及工具。（1 年未更新）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-01-21T12:25:31Z",
+            "owner": "appliedsec",
+            "repo": "djangular",
+            "stars": 216
+          }
+        }
+      ],
+      "title": "Web 前端集成"
+    },
+    {
+      "description": "方便文本翻译的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-ckeditor, star:820",
+          "description": "Django 管理界面与 CKEditor 集成。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-06-06T10:16:59Z",
+            "owner": "django-ckeditor",
+            "repo": "django-ckeditor",
+            "stars": 2457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-tinymce, star:615",
+          "description": "TinyMCE 与 Django 集成。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T17:43:48Z",
+            "owner": "jazzband",
+            "repo": "django-tinymce",
+            "stars": 1352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-summernote, star:325",
+          "description": "Summernote 是一个简单的所见即所得编辑器。django-summernote 能将 Summernote 方便地嵌入到 Django 中。支持 mixins 和 widgets。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-07T12:24:13Z",
+            "owner": "lqez",
+            "repo": "django-summernote",
+            "stars": 1087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-wysiwyg, star:440",
+          "description": "一个 Django 应用，实现将 Django 文本框变成富文本编辑器。可用作模板标签，也可用于表单组件。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2016-12-03T02:58:19Z",
+            "owner": "pydanny",
+            "repo": "django-wysiwyg",
+            "stars": 461
+          }
+        }
+      ],
+      "title": "所见即所得编辑器"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-wiki, star:727",
+          "description": "一个 wiki 系统，功能复杂，集成容易，界面优秀。能将你的知识配以样式进行存储：使用 django 数据模型。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T21:11:02Z",
+            "owner": "django-wiki",
+            "repo": "django-wiki",
+            "stars": 1931
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "waliki, star:254",
+          "description": "一个可扩展的 Django wiki 应用，使用 Git 后端。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-26T20:15:30Z",
+            "owner": "mgaitan",
+            "repo": "waliki",
+            "stars": 309
+          }
+        }
+      ],
+      "title": "Wiki 应用"
+    },
+    {
+      "description": "用于过程或业务任务管理的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-viewflow, star:631",
+          "description": "Django 中的可复用工作流库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T10:27:03Z",
+            "owner": "viewflow",
+            "repo": "viewflow",
+            "stars": 2869
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-fsm, star:831",
+          "description": "Django 对有限状态机的友好支持。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-07T16:33:09Z",
+            "owner": "kmmbvnr",
+            "repo": "django-fsm",
+            "stars": 2349
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-river, star:303",
+          "description": "Django 状态机和工作流库，提供即时修改功能。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-05T21:57:14Z",
+            "owner": "javrasya",
+            "repo": "django-river",
+            "stars": 748
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-flows, star:87",
+          "description": "django-flows 能保存逻辑复杂流中的状态和位置，允许基于每个用户的一系列动作进行可能的分支和复杂路径分离。（1 年未更新）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-24T19:25:52Z",
+            "owner": "carlio",
+            "repo": "django-flows",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-states, star:113",
+          "description": "django 数据模型的状态机。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-04-09T21:40:09Z",
+            "owner": "vikingco",
+            "repo": "django-states2",
+            "stars": 132
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-xworkflows, star:73",
+          "description": "一个将 xworkflows 整合到 django 数据模型中的库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-01T16:37:39Z",
+            "owner": "rbarrois",
+            "repo": "django_xworkflows",
+            "stars": 105
+          }
+        }
+      ],
+      "title": "工作流"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-extensions, star:3111",
+          "description": "该仓库收集了有关 Django 框架的全局自定义管理扩展功能，提供的管理功能 shell_plus 能在 django shell 中自动加载所有已安装应用的模型类。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-21T12:17:22Z",
+            "owner": "django-extensions",
+            "repo": "django-extensions",
+            "stars": 6812
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-cors-headers, star:1435",
+          "description": "一个用于处理跨源资源共享(CORS) 所需的服务器头的 Django 应用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T21:44:29Z",
+            "owner": "adamchainz",
+            "repo": "django-cors-headers",
+            "stars": 5592
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-filter, star:1743",
+          "description": "一个通用的系统，能基于用户选择过滤 Django QuerySets。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-15T14:54:24Z",
+            "owner": "carltongibson",
+            "repo": "django-filter",
+            "stars": 4686
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-sql-explorer, star:1251",
+          "description": "能通过 SQL 查询进行数据共享更加容易。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-23T01:55:00Z",
+            "owner": "explorerhq",
+            "repo": "sql-explorer",
+            "stars": 2879
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-activity-stream, star:1181",
+          "description": "基于站点上的行为创建通用的活动流。用户可关注任何行为者的个人活动流。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-15T00:04:01Z",
+            "owner": "justquick",
+            "repo": "django-activity-stream",
+            "stars": 2439
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-braces, star:1220",
+          "description": "可复用的，通用的 Django mixins。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-18T02:03:38Z",
+            "owner": "brack3t",
+            "repo": "django-braces",
+            "stars": 2019
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-hackathon-starter, star:1005",
+          "description": "Django Web 应用的样板，包含各种社交认证方法和许多流行 API 的例子。（1 年未更新）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-05T08:19:30Z",
+            "owner": "DrkSephy",
+            "repo": "django-hackathon-starter",
+            "stars": 1615
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-dynamic-scraper, star:552",
+          "description": "能通过 Django 管理界面创建 Scrapy 抓取器。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-19T21:12:06Z",
+            "owner": "holgerd77",
+            "repo": "django-dynamic-scraper",
+            "stars": 1158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-ratelimit, star:336",
+          "description": "为限速率视图提供了一个装饰器。可基于 IP 地址或请求中的某项（GET 或 POST 中的变量）进行限制。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-11T18:32:53Z",
+            "owner": "jsocol",
+            "repo": "django-ratelimit",
+            "stars": 1145
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-ipware, star:323",
+          "description": "一个用于获取用户 IP 地址的 Django 应用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-19T20:02:51Z",
+            "owner": "un33k",
+            "repo": "django-ipware",
+            "stars": 1066
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-recaptcha, star:391",
+          "description": "Django reCAPTCHA 表单项/组件集成应用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T20:06:02Z",
+            "owner": "django-recaptcha",
+            "repo": "django-recaptcha",
+            "stars": 1035
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-solo, star:273",
+          "description": "有助于使用单例 -- 全局设置等那些你想在管理站点上进行编辑的事物。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-01T15:45:30Z",
+            "owner": "lazybird",
+            "repo": "django-solo",
+            "stars": 965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-websocket-redis, star:611",
+          "description": "为 Django 应用实现的 Websockets，使用 Redis 作为消息队列。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-03-03T10:20:22Z",
+            "owner": "jrief",
+            "repo": "django-websocket-redis",
+            "stars": 897
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-friendship, star:291",
+          "description": "用于管理从属或双向关系的 Django 应用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T02:54:30Z",
+            "owner": "revsys",
+            "repo": "django-friendship",
+            "stars": 764
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-adminactions, star:169",
+          "description": "一组非常有用的行为集，可用于 django.contrib.admin.ModelAdmin 和 django.contrib.admin.AdminSite。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-19T15:15:51Z",
+            "owner": "saxix",
+            "repo": "django-adminactions",
+            "stars": 699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "micawber, star:338",
+          "description": "一个用于从 URL 抽取内容的小型库。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-19T13:51:33Z",
+            "owner": "coleifer",
+            "repo": "micawber",
+            "stars": 680
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-quiz-app, star:196",
+          "description": "这是一个可配置的 Django 调查问答应用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-23T16:30:28Z",
+            "owner": "tomwalker",
+            "repo": "django_quiz",
+            "stars": 626
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-watchman, star:145",
+          "description": "django-watchman 为你的数据库，缓存等后端服务提供状态端点。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T21:13:10Z",
+            "owner": "mwarkentin",
+            "repo": "django-watchman",
+            "stars": 546
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-pagination, star:505",
+          "description": "https://github.com/ericflo/django-pagination。（3 年未更新)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-13T03:23:56Z",
+            "owner": "ericflo",
+            "repo": "django-pagination",
+            "stars": 517
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-smuggler, star:228",
+          "description": "Django Smuggler 是 Django Web 框架中的一个可插拔应用，可用于在自动生成的管理界面中导入/导出 fixtures。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-09-03T21:45:56Z",
+            "owner": "semente",
+            "repo": "django-smuggler",
+            "stars": 372
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-el-pagination, star:113",
+          "description": "Django EL(Endless) Pagination 可用于提供 Twitter 风格或 Digg 风格的分页，可支持 Ajax。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-14T00:56:55Z",
+            "owner": "shtalinberg",
+            "repo": "django-el-pagination",
+            "stars": 308
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-uuslug, star:187",
+          "description": "一个 slugify 应用，能保证唯一性，且能处理 Unicode。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-02T19:40:44Z",
+            "owner": "un33k",
+            "repo": "django-uuslug",
+            "stars": 277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-calendarium, star:167",
+          "description": "一个可复用的应用，用于在模板中管理和显示日历。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-04T05:34:02Z",
+            "owner": "bitlabstudio",
+            "repo": "django-calendarium",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-activeurl, star:94",
+          "description": "使在 django 更容易使用活跃 URL 高亮。（2 年未更新）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-26T13:07:23Z",
+            "owner": "hellysmile",
+            "repo": "django-activeurl",
+            "stars": 158
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-gravatar2, star:93",
+          "description": "主要实现在 Django 中支持 Gravatar。功能有辅助函数，模板标签和完整的测试。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-29T22:34:52Z",
+            "owner": "twaddington",
+            "repo": "django-gravatar",
+            "stars": 155
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-overextends, star:90",
+          "description": "Django 中的环型模板继承。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-03-25T19:51:02Z",
+            "owner": "stephenmcd",
+            "repo": "django-overextends",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "towel, star:68",
+          "description": "一个工具集，能极大地方便你的 Django 开发。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-12T06:03:29Z",
+            "owner": "matthiask",
+            "repo": "towel",
+            "stars": 83
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-changuito, star:46",
+          "description": "django 网站的购物篮应用，django-cart 的分支版本。",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-01-18T01:42:24Z",
+            "owner": "angvp",
+            "repo": "django-changuito",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-markitup, star:41",
+          "description": "一个可复用的 Django 应用，用于端到端的标签处理。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-05T09:44:21Z",
+            "owner": "zsiciarz",
+            "repo": "django-markitup",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-mmc, star:30",
+          "description": "一个用于监测 Django 中的管理命令的应用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-26T20:15:22Z",
+            "owner": "LPgenerator",
+            "repo": "django-mmc",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-magic-embed, star:18",
+          "description": "一个简单易用的 Django 模板标签和工具，用于嵌入视频，并从视频提供者处获取缩略图。（2 年未更新）",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-09-03T21:33:46Z",
+            "owner": "kronoscode",
+            "repo": "django-magicembed",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-dfp, star:4",
+          "description": "一个应用，提供了用于获取 Google DFP 广告的标签。（2 年未更新）",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2016-01-08T22:20:33Z",
+            "owner": "praekelt",
+            "repo": "django-dfp",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-autoadmin, star:28",
+          "description": "为 Django 项目自动创建管理员用户。（2 年未更新）",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "django-stored-messages, star:71",
+          "description": "将 Django 消息保存到你的项目后端。（1 年未更新）",
+          "children": []
+        }
+      ],
+      "title": "其它"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "wagtail, star:4325",
+          "description": "一个新的 Django 内容管理系统。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T01:33:20Z",
+            "owner": "wagtail",
+            "repo": "wagtail",
+            "stars": 20440
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-cms, star:4880",
+          "description": "易用且对开发者友好的 CMS。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:42:41Z",
+            "owner": "django-cms",
+            "repo": "django-cms",
+            "stars": 10661
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mezzanine, star:3057",
+          "description": "一个使用 Django 框架构建的内容管理平台。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-19T10:10:29Z",
+            "owner": "stephenmcd",
+            "repo": "mezzanine",
+            "stars": 4822
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "feincms, star:697",
+          "description": "一个基于 Django 的 CMS，关注于扩展性和代码的简洁性。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T07:14:28Z",
+            "owner": "feincms",
+            "repo": "feincms",
+            "stars": 1114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-fiber, star:552",
+          "description": "Django Fiber, 一个简单易用的 CMS，可用于所有的 Django 项目中。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-08-09T20:13:44Z",
+            "owner": "django-fiber",
+            "repo": "django-fiber",
+            "stars": 664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "leonardo, star:61",
+          "description": "一个新的 Django 内容管理系统，基于 FeinCMS 和 OpenStack Horizon 构建。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-16T19:34:25Z",
+            "owner": "django-leonardo",
+            "repo": "django-leonardo",
+            "stars": 99
+          }
+        }
+      ],
+      "title": "CMS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-oscar, star:2495",
+          "description": "Django 中基于领域驱动的电子商务框架。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T08:10:10Z",
+            "owner": "django-oscar",
+            "repo": "django-oscar",
+            "stars": 6617
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cartridge, star:523",
+          "description": "Django/Mezzanine 的电子商务应用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-22T09:25:54Z",
+            "owner": "stephenmcd",
+            "repo": "cartridge",
+            "stars": 712
+          }
+        }
+      ],
+      "title": "电子商务"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Django packages, star:248",
+          "description": "Django Packages 是一个 Django 的可复用应用，站点，工具等的目录。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T08:11:27Z",
+            "owner": "djangopackages",
+            "repo": "djangopackages",
+            "stars": 949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Drum, star:319",
+          "description": "Reddit / Hacker News 的克隆版，使用 Django/Mezzanine。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-01-30T02:18:01Z",
+            "owner": "stephenmcd",
+            "repo": "drum",
+            "stars": 388
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "django-salted, star:329",
+          "description": "使用 Vagrant 的 Django 项目全栈 SaltStack 配置。（4 年前更新）",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-03-26T19:57:11Z",
+            "owner": "wunki",
+            "repo": "django-salted",
+            "stars": 316
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "koalixcrm, star:60",
+          "description": "适用于小业务的完美的 CRM/ERP。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-12-29T10:24:38Z",
+            "owner": "tfroehlich82",
+            "repo": "koalixcrm",
+            "stars": 84
+          }
+        }
+      ],
+      "title": "其它"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "taiga, star:3467",
+          "description": "敏捷，免费而且开源的项目管理工具，基于 Django 和 Angular。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T11:59:13Z",
+            "owner": "taigaio",
+            "repo": "taiga-back",
+            "stars": 844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ITSY, star:74",
+          "description": "问题跟踪系统。（3 年前更新）",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-03-27T11:19:36Z",
+            "owner": "yetkinozturk",
+            "repo": "ITSY",
+            "stars": 92
+          }
+        }
+      ],
+      "title": "项目管理"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:45:00.576Z",
+    "original_repository": "haiiiiiyun/awesome-django-cn",
+    "original_repository_sha": "903921de0b35446308fccc9e6ba748911b2d5892",
+    "enhanced_repository": "enhansome/enhansome-django-cn",
+    "enhanced_repository_description": null,
+    "title": "Awesome Django 优秀资源大全。 with stars"
+  }
+}
