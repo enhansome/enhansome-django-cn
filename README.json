@@ -1,6 +1,27 @@
 {
   "items": [
     {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Django 优秀资源大全",
+          "description": "则是依据 Awesome-Django 翻译而来。也欢迎你帮助推荐和提供建议",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66614144,
+            "language": null,
+            "last_commit": "2021-04-07T11:43:51Z",
+            "owner": "haiiiiiyun",
+            "repo": "awesome-django-cn",
+            "stars": 1814
+          }
+        }
+      ],
+      "title": "介绍"
+    },
+    {
       "description": "扩展管理界面，增加或增强基功能特性的相关包。",
       "items": [
         {
@@ -417,7 +438,7 @@
             "last_commit": "2026-08-13T10:03:36Z",
             "owner": "pennersr",
             "repo": "django-allauth",
-            "stars": 10373
+            "stars": 10375
           }
         },
         {
@@ -528,7 +549,7 @@
             "last_commit": "2026-07-30T03:53:44Z",
             "owner": "django-guardian",
             "repo": "django-guardian",
-            "stars": 3909
+            "stars": 3910
           }
         },
         {
@@ -660,7 +681,7 @@
             "last_commit": "2026-04-01T17:46:44Z",
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25063
+            "stars": 25064
           }
         },
         {
@@ -829,6 +850,48 @@
       "title": "兼容性"
     },
     {
+      "description": "用于创建信息仪表盘以可视化数据的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "django-dashing, star:381",
+          "description": "一个可定制，模块化的仪表盘应用框架，用以在你的 Django 项目中可视化有兴趣的数据。灵感来自那个相当优秀的仪表盘框架 Dashing。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20731693,
+            "language": "JavaScript",
+            "last_commit": "2022-08-06T03:09:38Z",
+            "owner": "talpor",
+            "repo": "django-dashing",
+            "stars": 726
+          }
+        }
+      ],
+      "title": "仪表盘"
+    },
+    {
+      "description": "使得使用大数据更方便的包。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rest-pandas, star:435",
+          "description": "通过 Django REST 框架架设你的 Pandas 数据帧服务，以在客户端（如 d3.js）可视化和离线分析（如 Excel）中使用。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15720872,
+            "language": "Python",
+            "last_commit": "2026-02-10T18:32:25Z",
+            "owner": "wq",
+            "repo": "django-rest-pandas",
+            "stars": 1277
+          }
+        }
+      ],
+      "title": "数据科学"
+    },
+    {
       "description": "有于支持第三方数据库或添加数据库特定功能的包。",
       "items": [
         {
@@ -906,10 +969,10 @@
             "archived": false,
             "id": 873328,
             "language": "Python",
-            "last_commit": "2026-08-24T08:01:56Z",
+            "last_commit": "2026-08-24T14:07:54Z",
             "owner": "getsentry",
             "repo": "sentry",
-            "stars": 44608
+            "stars": 44609
           }
         },
         {
@@ -939,7 +1002,7 @@
             "last_commit": "2026-08-23T19:34:44Z",
             "owner": "jazzband",
             "repo": "django-silk",
-            "stars": 4990
+            "stars": 4991
           }
         },
         {
@@ -1866,7 +1929,7 @@
             "archived": false,
             "id": 2179572,
             "language": "Python",
-            "last_commit": "2026-08-22T16:49:04Z",
+            "last_commit": "2026-08-24T13:26:26Z",
             "owner": "Kozea",
             "repo": "WeasyPrint",
             "stars": 9527
@@ -2442,7 +2505,7 @@
             "last_commit": "2026-08-16T13:54:43Z",
             "owner": "coleifer",
             "repo": "huey",
-            "stars": 6010
+            "stars": 6011
           }
         },
         {
@@ -3716,10 +3779,10 @@
                 "archived": false,
                 "id": 16479108,
                 "language": "Python",
-                "last_commit": "2026-08-24T05:08:46Z",
+                "last_commit": "2026-08-24T13:47:23Z",
                 "owner": "wagtail",
                 "repo": "wagtail",
-                "stars": 20452
+                "stars": 20451
               }
             },
             {
@@ -3801,6 +3864,28 @@
           "description": null,
           "node_type": "group",
           "title": "CMS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mayan-edms, star:251",
+              "description": "一个开源的，基于 Django 的 DMS (文档管理系统)，它具有自定义元数据索引、文件服务集成、OCR 功能、文档版本控制和电子签名验证等功能。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 184955400,
+                "language": "Python",
+                "last_commit": "2026-05-23T05:53:47Z",
+                "owner": "mayan-edms",
+                "repo": "Mayan-EDMS",
+                "stars": 833
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "文档管理"
         },
         {
           "children": [
@@ -3947,6 +4032,77 @@
       "title": "项目"
     },
     {
+      "description": "探索新 Django 应用和项目的地方。",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Django by Example",
+              "description": "(1.2)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5269472,
+                "language": "HTML",
+                "last_commit": "2016-06-20T21:03:24Z",
+                "owner": "kevinlondon",
+                "repo": "django-by-example",
+                "stars": 19
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "图书"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Django packages",
+              "description": "Django Packages 是一个 Django 的可复用应用，站点，工具等的目录。",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2351637,
+                "language": "Python",
+                "last_commit": "2026-08-24T03:55:19Z",
+                "owner": "djangopackages",
+                "repo": "djangopackages",
+                "stars": 953
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "网站"
+        }
+      ],
+      "title": "资源"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cookiecutter-django, star:2559",
+          "description": "一个 cookiecutter 模板，用于快速创建 Django 项目。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12115269,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:40:23Z",
+            "owner": "cookiecutter",
+            "repo": "cookiecutter-django",
+            "stars": 13602
+          }
+        }
+      ],
+      "title": "非 Python 包"
+    },
+    {
       "description": "那些方便 Django 使用的非 Django 项目。",
       "items": [
         {
@@ -3984,7 +4140,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:02:45.413Z",
+    "last_updated": "2026-08-24T14:09:58.961Z",
     "original_repository": "haiiiiiyun/awesome-django-cn",
     "original_repository_id": 66614144,
     "original_repository_sha": "903921de0b35446308fccc9e6ba748911b2d5892",
