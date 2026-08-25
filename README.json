@@ -324,7 +324,7 @@
             "archived": false,
             "id": 504028,
             "language": "Python",
-            "last_commit": "2026-08-20T11:38:55Z",
+            "last_commit": "2026-08-25T07:02:51Z",
             "owner": "django-compressor",
             "repo": "django-compressor",
             "stars": 2871
@@ -681,7 +681,7 @@
             "last_commit": "2026-04-01T17:46:44Z",
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25065
+            "stars": 25067
           }
         },
         {
@@ -969,10 +969,10 @@
             "archived": false,
             "id": 873328,
             "language": "Python",
-            "last_commit": "2026-08-25T05:46:03Z",
+            "last_commit": "2026-08-25T07:52:27Z",
             "owner": "getsentry",
             "repo": "sentry",
-            "stars": 44612
+            "stars": 44613
           }
         },
         {
@@ -984,7 +984,7 @@
             "archived": false,
             "id": 46939,
             "language": "Python",
-            "last_commit": "2026-08-24T21:24:57Z",
+            "last_commit": "2026-08-25T06:58:29Z",
             "owner": "django-commons",
             "repo": "django-debug-toolbar",
             "stars": 8378
@@ -3198,7 +3198,7 @@
             "last_commit": "2026-08-09T10:27:03Z",
             "owner": "viewflow",
             "repo": "viewflow",
-            "stars": 2870
+            "stars": 2871
           }
         },
         {
@@ -3782,7 +3782,7 @@
                 "last_commit": "2026-08-24T16:50:37Z",
                 "owner": "wagtail",
                 "repo": "wagtail",
-                "stars": 20450
+                "stars": 20451
               }
             },
             {
@@ -3901,7 +3901,7 @@
                 "last_commit": "2026-08-20T15:36:03Z",
                 "owner": "django-oscar",
                 "repo": "django-oscar",
-                "stars": 6623
+                "stars": 6624
               }
             },
             {
@@ -4140,7 +4140,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:05:55.239Z",
+    "last_updated": "2026-08-25T07:54:49.733Z",
     "original_repository": "haiiiiiyun/awesome-django-cn",
     "original_repository_id": 66614144,
     "original_repository_sha": "903921de0b35446308fccc9e6ba748911b2d5892",

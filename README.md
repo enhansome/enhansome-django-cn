@@ -101,7 +101,7 @@
 
 *有助于管理项目资源文件的包。*
 
-* [django-compressor, star:1862](https://github.com/django-compressor/django-compressor/) ⭐ 2,871 | 🐛 121 | 🌐 Python | 📅 2026-08-20 - 将通过链接及内联的 javascript 或 CSS 压缩成单个缓存文件。
+* [django-compressor, star:1862](https://github.com/django-compressor/django-compressor/) ⭐ 2,871 | 🐛 121 | 🌐 Python | 📅 2026-08-25 - 将通过链接及内联的 javascript 或 CSS 压缩成单个缓存文件。
 * [django-webpack-loader, star:807](https://github.com/owais/django-webpack-loader/) ⭐ 2,540 | 🐛 8 | 🌐 Python | 📅 2026-05-13 - webpack 无缝集成到 django。
 * [django-pipeline, star:1141](https://github.com/jazzband/django-pipeline) ⭐ 1,541 | 🐛 157 | 🌐 Python | 📅 2026-08-15 - Django 的资源文件管理包。
 * [django-htmlmin, star:340](https://github.com/cobrateam/django-htmlmin/) ⭐ 543 | 🐛 55 | 🌐 Python | 📅 2023-01-12 - 用于 Python 框架的 HTML 压缩工具，完全支持 HTML 5 和 Django。
@@ -138,13 +138,13 @@
 *用于创建和管理 blog 应用的包。*
 
 * [django-blog-zinnia, star:1430](https://github.com/Fantomas42/django-blog-zinnia) ⭐ 2,124 | 🐛 40 | 🌐 Python | 📅 2024-05-03 -  一个简单而且强大，又非常容易扩展的应用，用于管理 Django 网站中的 blog。
-* [puput, star:184](https://github.com/APSL/puput) ⭐ 660 | 🐛 14 | 🌐 Python | 📅 2026-04-13 - 一个 用 [Wagtail](https://github.com/wagtail/wagtail) ⭐ 20,450 | 🐛 1,023 | 🌐 Python | 📅 2026-08-24 实现的 Django blog 应用。
+* [puput, star:184](https://github.com/APSL/puput) ⭐ 660 | 🐛 14 | 🌐 Python | 📅 2026-04-13 - 一个 用 [Wagtail](https://github.com/wagtail/wagtail) ⭐ 20,451 | 🐛 1,023 | 🌐 Python | 📅 2026-08-24 实现的 Django blog 应用。
 
 ## 样板
 
 *有关可快速开启一个新项目的包。*
 
-* [cookiecutter, star:4912](https://github.com/audreyr/cookiecutter/) ⭐ 25,065 | 🐛 313 | 🌐 Python | 📅 2026-04-01 - 一个可根据 cookiecutters (项目模板）创建新项目的命令行工具。
+* [cookiecutter, star:4912](https://github.com/audreyr/cookiecutter/) ⭐ 25,067 | 🐛 313 | 🌐 Python | 📅 2026-04-01 - 一个可根据 cookiecutters (项目模板）创建新项目的命令行工具。
 * [django-hackathon-starter, star:996](https://github.com/DrkSephy/django-hackathon-starter) ⭐ 1,614 | 🐛 20 | 🌐 Python | 📅 2020-03-05 - 一个 Django Web 应用的样板，包含多种社交认证方法和多个流行的 API 示例（1 年未更新）。
 * [edge, star:456](https://github.com/arocks/edge) ⭐ 832 | 🐛 35 | 🌐 HTML | 📅 2022-11-22 - 一个 非常现代化非常先进的 Django 项目骨架。
 
@@ -192,8 +192,8 @@
 
 *有助于查找 Bug 的包。*
 
-* [sentry, star:12408](https://github.com/getsentry/sentry) ⭐ 44,612 | 🐛 2,256 | 🌐 Python | 📅 2026-08-25 - 一个现代的错误记录和聚合平台。
-* [django-debug-toolbar, star:4136](https://github.com/django-debug-toolbar/django-debug-toolbar/) ⭐ 8,378 | 🐛 84 | 🌐 Python | 📅 2026-08-24 - 可配置的一组面板，可显示有关当前请求/应答中的许多调试信息。
+* [sentry, star:12408](https://github.com/getsentry/sentry) ⭐ 44,613 | 🐛 2,257 | 🌐 Python | 📅 2026-08-25 - 一个现代的错误记录和聚合平台。
+* [django-debug-toolbar, star:4136](https://github.com/django-debug-toolbar/django-debug-toolbar/) ⭐ 8,378 | 🐛 83 | 🌐 Python | 📅 2026-08-25 - 可配置的一组面板，可显示有关当前请求/应答中的许多调试信息。
 * [django-silk, star:905](https://github.com/django-silk/silk) ⭐ 4,991 | 🐛 127 | 🌐 Python | 📅 2026-08-24 - Django 中非常易用的剖析工具。
 * [django-devserver, star:1190](https://github.com/dcramer/django-devserver/) ⭐ 1,265 | 🐛 59 | 🌐 Python | 📅 2020-02-26 - Django 内置 runserver 的简单替代者（1 年未更新）。
 * [nplusone, star:262](https://github.com/jmcarp/nplusone/) ⭐ 1,068 | 🐛 24 | 🌐 Python | 📅 2022-11-25 - 自动检测 Django（及其它 ORM）中的 n+1 查询问题。
@@ -474,7 +474,7 @@
 
 *用于过程或业务任务管理的包。*
 
-* [django-viewflow, star:631](https://github.com/viewflow/viewflow) ⭐ 2,870 | 🐛 16 | 🌐 Python | 📅 2026-08-09 - Django 中的可复用工作流库。
+* [django-viewflow, star:631](https://github.com/viewflow/viewflow) ⭐ 2,871 | 🐛 16 | 🌐 Python | 📅 2026-08-09 - Django 中的可复用工作流库。
 * [django-fsm, star:831](https://github.com/kmmbvnr/django-fsm/) ⭐ 2,351 | 🐛 0 | 🌐 Python | 📅 2025-10-07 - Django 对有限状态机的友好支持。
 * [django-river, star:303](https://github.com/javrasya/django-river/) ⭐ 747 | 🐛 35 | 🌐 Python | 📅 2023-05-05 - Django 状态机和工作流库，提供即时修改功能。
 * [django-flows, star:87](https://github.com/carlio/django-flows/) ⭐ 139 | 🐛 5 | 🌐 Python | 📅 2020-03-24 - django-flows 能保存逻辑复杂流中的状态和位置，允许基于每个用户的一系列动作进行可能的分支和复杂路径分离。（1 年未更新）
@@ -526,7 +526,7 @@
 
 ## CMS
 
-* [wagtail, star:4325](https://github.com/torchbox/wagtail/) ⭐ 20,450 | 🐛 1,023 | 🌐 Python | 📅 2026-08-24 - 一个新的 Django 内容管理系统。
+* [wagtail, star:4325](https://github.com/torchbox/wagtail/) ⭐ 20,451 | 🐛 1,023 | 🌐 Python | 📅 2026-08-24 - 一个新的 Django 内容管理系统。
 * [django-cms, star:4880](https://github.com/divio/django-cms/) ⭐ 10,663 | 🐛 12 | 🌐 Python | 📅 2026-08-21 - 易用且对开发者友好的 CMS。
 * [Mezzanine, star:3057](https://github.com/stephenmcd/mezzanine/) ⭐ 4,823 | 🐛 65 | 🌐 Python | 📅 2026-04-19 - 一个使用 Django 框架构建的内容管理平台。
 * [feincms, star:697](https://github.com/feincms/feincms/) ⭐ 1,118 | 🐛 25 | 🌐 Python | 📅 2026-08-24 - 一个基于 Django 的 CMS，关注于扩展性和代码的简洁性。
@@ -539,7 +539,7 @@
 
 ## 电子商务
 
-* [django-oscar, star:2495](https://github.com/django-oscar/django-oscar) ⭐ 6,623 | 🐛 160 | 🌐 Python | 📅 2026-08-20 - Django 中基于领域驱动的电子商务框架。
+* [django-oscar, star:2495](https://github.com/django-oscar/django-oscar) ⭐ 6,624 | 🐛 160 | 🌐 Python | 📅 2026-08-20 - Django 中基于领域驱动的电子商务框架。
 * [Cartridge, star:523](https://github.com/stephenmcd/cartridge) ⭐ 712 | 🐛 32 | 🌐 Python | 📅 2024-02-22 - Django/Mezzanine 的电子商务应用。
 * [Lighting Fas Shop](http://www.getlfs.com/) - Lighting Fas Shop 是一个用 Django 构建的电子商务解决方案。
 * [Saleor](http://getsaleor.com) - 在 Python 和 Django 中使用的电子商务店铺。
