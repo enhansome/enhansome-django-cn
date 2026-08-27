@@ -36,7 +36,7 @@
             "last_commit": "2025-12-16T05:44:15Z",
             "owner": "sshwsfc",
             "repo": "xadmin",
-            "stars": 4751
+            "stars": 4750
           }
         },
         {
@@ -546,7 +546,7 @@
             "archived": false,
             "id": 704114,
             "language": "Python",
-            "last_commit": "2026-08-27T08:58:03Z",
+            "last_commit": "2026-08-27T14:13:28Z",
             "owner": "django-guardian",
             "repo": "django-guardian",
             "stars": 3910
@@ -681,7 +681,7 @@
             "last_commit": "2026-04-01T17:46:44Z",
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25066
+            "stars": 25067
           }
         },
         {
@@ -747,7 +747,7 @@
             "last_commit": "2026-08-10T19:37:23Z",
             "owner": "noripyt",
             "repo": "django-cachalot",
-            "stars": 1429
+            "stars": 1430
           }
         },
         {
@@ -969,10 +969,10 @@
             "archived": false,
             "id": 873328,
             "language": "Python",
-            "last_commit": "2026-08-27T11:32:07Z",
+            "last_commit": "2026-08-27T18:13:23Z",
             "owner": "getsentry",
             "repo": "sentry",
-            "stars": 44628
+            "stars": 44630
           }
         },
         {
@@ -3782,7 +3782,7 @@
                 "last_commit": "2026-08-26T13:28:24Z",
                 "owner": "wagtail",
                 "repo": "wagtail",
-                "stars": 20460
+                "stars": 20463
               }
             },
             {
@@ -3794,7 +3794,7 @@
                 "archived": false,
                 "id": 143580,
                 "language": "Python",
-                "last_commit": "2026-08-27T10:19:32Z",
+                "last_commit": "2026-08-27T16:08:51Z",
                 "owner": "django-cms",
                 "repo": "django-cms",
                 "stars": 10665
@@ -4093,10 +4093,10 @@
             "archived": false,
             "id": 12115269,
             "language": "Python",
-            "last_commit": "2026-08-25T23:16:34Z",
+            "last_commit": "2026-08-27T17:19:40Z",
             "owner": "cookiecutter",
             "repo": "cookiecutter-django",
-            "stars": 13603
+            "stars": 13602
           }
         }
       ],
@@ -4140,7 +4140,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:33:28.976Z",
+    "last_updated": "2026-08-27T18:15:44.564Z",
     "original_repository_info": {
       "archived": false,
       "id": 66614144,
