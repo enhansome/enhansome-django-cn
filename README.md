@@ -73,12 +73,12 @@
 
 * [django-xadmin, star:2016](https://github.com/sshwsfc/django-xadmin/) ⭐ 4,750 | 🐛 386 | 🌐 Python | 📅 2025-12-16 - 一个 Django admin 的替代器，并附带很多不错的功能特性，完全支持用插件扩展，绚丽的 UI 基于 Twitter Bootstrap。
 * [django-grappelli, star:2087](https://github.com/sehmaschine/django-grappelli/) ⭐ 3,943 | 🐛 8 | 🌐 HTML | 📅 2026-08-10 - 可用于 Django 管理界面的一个绚丽皮肤。
-* [django-simpleui, star:1411](https://github.com/newpanjing/simpleui/) ⭐ 3,822 | 🐛 7 | 🌐 Python | 📅 2026-01-13 - 可用于 Django 管理界面的一个Vue+Element-ui的现代主题。
+* [django-simpleui, star:1411](https://github.com/newpanjing/simpleui/) ⭐ 3,823 | 🐛 7 | 🌐 Python | 📅 2026-01-13 - 可用于 Django 管理界面的一个Vue+Element-ui的现代主题。
 * [django-jet, star:791](https://github.com/geex-arts/django-jet) ⭐ 3,622 | 🐛 303 | 🌐 Python | 📅 2025-11-26 - 可用于管理界面的现代模板，并增强了功能。
 * [django-material, star:1037](https://github.com/viewflow/django-material) ⭐ 2,541 | 🐛 21 | 🌐 JavaScript | 📅 2026-05-02 - Material 风格的 Django 表单和管理界面。是模板驱动的。
 * [django-suit, star:1226](https://github.com/darklow/django-suit/) ⭐ 2,408 | 🐛 302 | 🌐 SCSS | 📅 2025-05-27 - 可用于 Django 管理界面的一个现代主题。
-* [django-admin-interface, star:75](https://github.com/fabiocaccamo/django-admin-interface) ⭐ 2,040 | 🐛 21 | 🌐 Python | 📅 2026-08-24 - 终级管理界面，它基于现代扁平式风格，能让你通过管理界面自身定制它的主题、logo 和配色。
-* [django-hijack, star:542](https://github.com/arteria/django-hijack/) ⭐ 1,743 | 🐛 5 | 🌐 Python | 📅 2026-08-27 - 允许超级用户以其他用户微分登录和操作。
+* [django-admin-interface, star:75](https://github.com/fabiocaccamo/django-admin-interface) ⭐ 2,041 | 🐛 21 | 🌐 Python | 📅 2026-08-24 - 终级管理界面，它基于现代扁平式风格，能让你通过管理界面自身定制它的主题、logo 和配色。
+* [django-hijack, star:542](https://github.com/arteria/django-hijack/) ⭐ 1,744 | 🐛 5 | 🌐 Python | 📅 2026-08-27 - 允许超级用户以其他用户微分登录和操作。
 * [django-admin-bootstrapped, star:1360](https://github.com/django-admin-bootstrapped/django-admin-bootstrapped/) ⭐ 1,571 | 🐛 35 | 🌐 HTML | 📅 2021-08-15 - 一种基于 Twitter Bootstrap 的 Django 管理界面主题。
 * [django-admin2, star:952](https://github.com/pydanny/django-admin2/) ⭐ 1,186 | 🐛 43 | 🌐 Python | 📅 2022-08-02 - django.contrib.admin 的一个可扩展、能适配的版本。
 * [django-admin-tools, star:221](https://github.com/django-admin-tools/django-admin-tools) ⭐ 894 | 🐛 22 | 🌐 Python | 📅 2023-08-10 - 一个关于默认 Django 管理界面的扩展/工具的集合。
@@ -113,7 +113,7 @@
 
 *增强或扩展了 Django 认证方法的相关包。*
 
-* [django-allauth, star:3000](https://github.com/pennersr/django-allauth/) ⭐ 10,375 | 🐛 2 | 🌐 Python | 📅 2026-08-13 - 一套完整的 Django 应用，解决认证，注册，帐户管理及第三方（社交）帐户认证。
+* [django-allauth, star:3000](https://github.com/pennersr/django-allauth/) ⭐ 10,374 | 🐛 2 | 🌐 Python | 📅 2026-08-13 - 一套完整的 Django 应用，解决认证，注册，帐户管理及第三方（社交）帐户认证。
 * [python-social-auth, star:2639](https://github.com/omab/python-social-auth/) ⭐ 2,800 | 🐛 24 | 🌐 Python | 📅 2022-07-01 - Python Social Auth 是一个很容易设置的社交认证/注册机制，它支持多个框架和认证提供商。
 * [django-rest-auth, star:793](https://github.com/Tivix/django-rest-auth) ⭐ 2,418 | 🐛 232 | 🌐 Python | 📅 2024-03-13 -  一组 REST API，用于处理用户注册和认证任务。
 * [django-two-factor-auth, star:391](https://github.com/Bouke/django-two-factor-auth/) ⭐ 1,878 | 🐛 103 | 🌐 Python | 📅 2026-08-25 - 用户友好的双因子认证。
@@ -126,25 +126,25 @@
 
 *与授权基础设施和权限相关的包。*
 
-* [django-guardian, star:1412](https://github.com/django-guardian/django-guardian) ⭐ 3,910 | 🐛 35 | 🌐 Python | 📅 2026-08-27 - 实现对象级别的权限，来用作授权后端。
-* [django-oauth-toolkit, star:963](https://github.com/evonove/django-oauth-toolkit) ⭐ 3,334 | 🐛 41 | 🌐 Python | 📅 2026-08-23 - Django 用来集成 OAuth2 的好东西。
+* [django-guardian, star:1412](https://github.com/django-guardian/django-guardian) ⭐ 3,910 | 🐛 33 | 🌐 Python | 📅 2026-08-28 - 实现对象级别的权限，来用作授权后端。
+* [django-oauth-toolkit, star:963](https://github.com/evonove/django-oauth-toolkit) ⭐ 3,334 | 🐛 42 | 🌐 Python | 📅 2026-08-23 - Django 用来集成 OAuth2 的好东西。
 * [django-rules, star:431](https://github.com/dfunckt/django-rules) ⭐ 1,977 | 🐛 41 | 🌐 Python | 📅 2025-10-11 - 一个微型但强大的应用，为 Django 提供了对象级别的权限，它无需使用数据。其核心是一个用于构建基于规则的系统的通用框架，类似决策树。它也可以以独立库的形式使用在其它上下文和框架中。
 * [django-oauth2-provider, star:304](https://github.com/caffeinehit/django-oauth2-provider) ⭐ 337 | 🐛 68 | 🌐 Python | 📅 2024-08-12 - 为你的应用提供 OAuth2 访问。
 * [django-permission, star:227](https://github.com/lambdalisue/django-permission/) ⚠️ Archived - 一个增强的权限库，它能使用 *基于逻辑的权限系统* 来处理 Django 中的复杂权限问题。
-* [django-oml, star:10](https://github.com/angvp/django-oml/) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2026-08-18 - Object Moderation Layer, mixin for models that allows you moderate several content types.（2 年未更新）
+* [django-oml, star:10](https://github.com/angvp/django-oml/) ⭐ 13 | 🐛 1 | 🌐 Python | 📅 2026-08-27 - Object Moderation Layer, mixin for models that allows you moderate several content types.（2 年未更新）
 
 ## Blog 管理
 
 *用于创建和管理 blog 应用的包。*
 
 * [django-blog-zinnia, star:1430](https://github.com/Fantomas42/django-blog-zinnia) ⭐ 2,125 | 🐛 40 | 🌐 Python | 📅 2024-05-03 -  一个简单而且强大，又非常容易扩展的应用，用于管理 Django 网站中的 blog。
-* [puput, star:184](https://github.com/APSL/puput) ⭐ 660 | 🐛 14 | 🌐 Python | 📅 2026-04-13 - 一个 用 [Wagtail](https://github.com/wagtail/wagtail) ⭐ 20,463 | 🐛 1,008 | 🌐 Python | 📅 2026-08-26 实现的 Django blog 应用。
+* [puput, star:184](https://github.com/APSL/puput) ⭐ 660 | 🐛 14 | 🌐 Python | 📅 2026-04-13 - 一个 用 [Wagtail](https://github.com/wagtail/wagtail) ⭐ 20,466 | 🐛 1,013 | 🌐 Python | 📅 2026-08-28 实现的 Django blog 应用。
 
 ## 样板
 
 *有关可快速开启一个新项目的包。*
 
-* [cookiecutter, star:4912](https://github.com/audreyr/cookiecutter/) ⭐ 25,067 | 🐛 312 | 🌐 Python | 📅 2026-04-01 - 一个可根据 cookiecutters (项目模板）创建新项目的命令行工具。
+* [cookiecutter, star:4912](https://github.com/audreyr/cookiecutter/) ⭐ 25,066 | 🐛 312 | 🌐 Python | 📅 2026-04-01 - 一个可根据 cookiecutters (项目模板）创建新项目的命令行工具。
 * [django-hackathon-starter, star:996](https://github.com/DrkSephy/django-hackathon-starter) ⭐ 1,614 | 🐛 20 | 🌐 Python | 📅 2020-03-05 - 一个 Django Web 应用的样板，包含多种社交认证方法和多个流行的 API 示例（1 年未更新）。
 * [edge, star:456](https://github.com/arocks/edge) ⭐ 832 | 🐛 35 | 🌐 HTML | 📅 2022-11-22 - 一个 非常现代化非常先进的 Django 项目骨架。
 
@@ -192,9 +192,9 @@
 
 *有助于查找 Bug 的包。*
 
-* [sentry, star:12408](https://github.com/getsentry/sentry) ⭐ 44,630 | 🐛 2,231 | 🌐 Python | 📅 2026-08-27 - 一个现代的错误记录和聚合平台。
-* [django-debug-toolbar, star:4136](https://github.com/django-debug-toolbar/django-debug-toolbar/) ⭐ 8,379 | 🐛 84 | 🌐 Python | 📅 2026-08-25 - 可配置的一组面板，可显示有关当前请求/应答中的许多调试信息。
-* [django-silk, star:905](https://github.com/django-silk/silk) ⭐ 4,991 | 🐛 126 | 🌐 Python | 📅 2026-08-26 - Django 中非常易用的剖析工具。
+* [sentry, star:12408](https://github.com/getsentry/sentry) ⭐ 44,639 | 🐛 2,227 | 🌐 Python | 📅 2026-08-28 - 一个现代的错误记录和聚合平台。
+* [django-debug-toolbar, star:4136](https://github.com/django-debug-toolbar/django-debug-toolbar/) ⭐ 8,378 | 🐛 83 | 🌐 Python | 📅 2026-08-28 - 可配置的一组面板，可显示有关当前请求/应答中的许多调试信息。
+* [django-silk, star:905](https://github.com/django-silk/silk) ⭐ 4,992 | 🐛 126 | 🌐 Python | 📅 2026-08-26 - Django 中非常易用的剖析工具。
 * [django-devserver, star:1190](https://github.com/dcramer/django-devserver/) ⭐ 1,265 | 🐛 59 | 🌐 Python | 📅 2020-02-26 - Django 内置 runserver 的简单替代者（1 年未更新）。
 * [nplusone, star:262](https://github.com/jmcarp/nplusone/) ⭐ 1,068 | 🐛 24 | 🌐 Python | 📅 2022-11-25 - 自动检测 Django（及其它 ORM）中的 n+1 查询问题。
 * [django-querycount, star:83](https://github.com/bradmontgomery/django-querycount/) ⭐ 408 | 🐛 13 | 🌐 Python | 📅 2024-05-29 - 一个中间件，用于将数据库查询数输出来 runserver 命令行中。
@@ -203,7 +203,7 @@
 
 *有助于管理邮件发送的包。*
 
-* [django-post\_office, star:331](https://github.com/ui/django-post_office/) ⭐ 1,093 | 🐛 108 | 🌐 Python | 📅 2026-07-20 - 一个用于发送和管理邮件的简单 Django 应用，支持模板，并能很容易与任务队伍集成。
+* [django-post\_office, star:331](https://github.com/ui/django-post_office/) ⭐ 1,094 | 🐛 108 | 🌐 Python | 📅 2026-07-20 - 一个用于发送和管理邮件的简单 Django 应用，支持模板，并能很容易与任务队伍集成。
 * [django-ses, star:475](https://github.com/django-ses/django-ses) ⭐ 1,087 | 🐛 53 | 🌐 Python | 📅 2026-05-19 - 使用 Amazon Simple Email Service 的 Django 邮件后端。
 * [django-templated-email, star:291](https://github.com/BradWhittington/django-templated-email) ⭐ 785 | 🐛 6 | 🌐 Python | 📅 2025-09-29 - 一个 Django 模板，能很容易地发送模板型邮件，可以使用 django 模板，或事务型邮件提供商（如 mailchimp, silverpop 等）。
 * [django-drip, star:543](https://github.com/zapier/django-drip) ⚠️ Archived - Django Admin based management for drip email campaigns（2 年未更新）。
@@ -221,7 +221,7 @@
 *与扩展现有项类型功能或添加新项类型有关的包。*
 
 * [django-imagekit, star:1154](https://github.com/matthewwithanm/django-imagekit/) ⭐ 2,349 | 🐛 92 | 🌐 Python | 📅 2026-07-12 - 在 Django 中自动处理图像。
-* [django-phonenumber-field, star:383](https://github.com/stefanfoulis/django-phonenumber-field/) ⭐ 1,551 | 🐛 7 | 🌐 Python | 📅 2026-08-15 - 一个可以与 [python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,769 | 🐛 11 | 🌐 Python | 📅 2026-08-14 交互的 Django 库，以用来验证、格式输出和转换手机号码。
+* [django-phonenumber-field, star:383](https://github.com/stefanfoulis/django-phonenumber-field/) ⭐ 1,551 | 🐛 7 | 🌐 Python | 📅 2026-08-15 - 一个可以与 [python-phonenumbers](https://github.com/daviddrysdale/python-phonenumbers) ⭐ 3,769 | 🐛 12 | 🌐 Python | 📅 2026-08-28 交互的 Django 库，以用来验证、格式输出和转换手机号码。
 * [django-countries, star:359](https://github.com/SmileyChris/django-countries/) ⭐ 1,532 | 🐛 5 | 🌐 Python | 📅 2026-06-10 - 为表单提供国家选择，也基于国旗选择，还提供一个 CountryField。
 * [django-location-field, star:266](https://github.com/caioariede/django-location-field/) ⭐ 570 | 🐛 13 | 🌐 JavaScript | 📅 2023-11-21 - 一个位置项及其组件，并与 google 地图集成。
 * [django-versatileimagefield, star:230](https://github.com/WGBH/django-versatileimagefield/) ⭐ 538 | 🐛 51 | 🌐 Python | 📅 2024-01-21 - django ImageField 的简单替代品，并提供了一个灵活、直观、易扩展的接口来快速地根据指定的图像创建一个表单项。
@@ -246,8 +246,8 @@
 
 *扩展表单功能或添加亲的表单类型的相关包。*
 
-* [django-crispy-forms, star:2756](https://github.com/maraujop/django-crispy-forms/) ⭐ 5,159 | 🐛 75 | 🌐 Python | 📅 2026-07-29 - 实现 DRY Django 表单的最好方式。该应用提供的 Tag 和 Filter 能让你快速将表单呈现成 div 格式，同时又提供大量的功能来配置和控制呈现的 HTML。
-* [django-bootstrap3, star:1731](https://github.com/dyve/django-bootstrap3/) ⭐ 2,332 | 🐛 0 | 🌐 Python | 📅 2026-08-17 - 以 Django 的方式，在 Django 模板中使用 Bootstrap。
+* [django-crispy-forms, star:2756](https://github.com/maraujop/django-crispy-forms/) ⭐ 5,158 | 🐛 75 | 🌐 Python | 📅 2026-07-29 - 实现 DRY Django 表单的最好方式。该应用提供的 Tag 和 Filter 能让你快速将表单呈现成 div 格式，同时又提供大量的功能来配置和控制呈现的 HTML。
+* [django-bootstrap3, star:1731](https://github.com/dyve/django-bootstrap3/) ⭐ 2,332 | 🐛 1 | 🌐 Python | 📅 2026-08-28 - 以 Django 的方式，在 Django 模板中使用 Bootstrap。
 * [django-autocomplete-light, star:794](https://github.com/yourlabs/django-autocomplete-light/) ⭐ 1,870 | 🐛 212 | 🌐 Python | 📅 2026-06-29 - django-autocomplete-light 的目标是在 Django 项目中快速而适当地实现自动填充功能。
 * [django-floppyforms, star:681](https://github.com/gregmuellegger/django-floppyforms/) ⭐ 838 | 🐛 41 | 🌐 Python | 📅 2025-01-04 - django-floppyforms 这个应用能让你完全控制表单的呈现结果。表单 API 和功能与 Django 的完全相同，主要的不同在同它的表单项和表单组件是在模板中呈现的，而不是使用字符串处理完成，因此它能让你在使用 Django 模板中完成控制输出的结果。
 * [django-bootstrap-form, star:485](https://github.com/tzangms/django-bootstrap-form/) ⭐ 558 | 🐛 41 | 🌐 HTML | 📅 2024-03-07 - 将 Twitter Bootstrap 使用到 Django 表单中。
@@ -291,8 +291,8 @@
 *能扩展数据模型功能或添加新数据模型类的包。*
 
 * [django-mptt, star:1439](https://github.com/django-mptt/django-mptt/) ⭐ 2,971 | 🐛 3 | 🌐 Python | 📅 2026-06-02 - 用来在 Django 中实现一个修订版的先序遍历树的工具集。
-* [django-model-utils, star:1126](https://github.com/carljm/django-model-utils/) ⭐ 2,762 | 🐛 124 | 🌐 Python | 📅 2026-08-17 - Django 数据模型的 mixins 和工具集，例如 TimeStampedModel。
-* [django-treebeard, star:370](https://github.com/tabo/django-treebeard) ⭐ 1,218 | 🐛 4 | 🌐 Python | 📅 2026-08-20 - Django 中树数据结构的另一种实现(提供了 3 种不同的层级数据排序方法，包括 MPTT )。
+* [django-model-utils, star:1126](https://github.com/carljm/django-model-utils/) ⭐ 2,761 | 🐛 124 | 🌐 Python | 📅 2026-08-17 - Django 数据模型的 mixins 和工具集，例如 TimeStampedModel。
+* [django-treebeard, star:370](https://github.com/tabo/django-treebeard) ⭐ 1,218 | 🐛 5 | 🌐 Python | 📅 2026-08-20 - Django 中树数据结构的另一种实现(提供了 3 种不同的层级数据排序方法，包括 MPTT )。
 * [django-localflavor, star:290](https://github.com/django/django-localflavor/) ⭐ 924 | 🐛 19 | 🌐 Python | 📅 2026-08-03 - 与国家信息有关的 Django 辅助包，即原先的 fame 贡献包。
 * [django-aggregate-if, star:125](https://github.com/henriquebastos/django-aggregate-if/) ⚠️ Archived - 对 Django 查询进行条件聚合，就如 Excel 中的 SumIf 和 CountIf（2 年未更新）。
 
@@ -317,7 +317,7 @@
 
 *创建报表相关的包。*
 
-* [WeasyPrint, star:3.7K](https://github.com/Kozea/WeasyPrint) ⭐ 9,531 | 🐛 135 | 🌐 Python | 📅 2026-08-25 - WeasyPrint 是 Web 开发人才创建 PDF 文档的智能方案。它能将简单的 HTML 页面转换成精致的统计报表、收据等。
+* [WeasyPrint, star:3.7K](https://github.com/Kozea/WeasyPrint) ⭐ 9,539 | 🐛 135 | 🌐 Python | 📅 2026-08-25 - WeasyPrint 是 Web 开发人才创建 PDF 文档的智能方案。它能将简单的 HTML 页面转换成精致的统计报表、收据等。
 * [django-report-builder, star:453](https://github.com/burke-software/django-report-builder/) ⭐ 768 | 🐛 42 | 🌐 Python | 📅 2024-08-20 - Django ORM 的一个用户界面。能构建自定义的查询并显示结果。目标用户是系统管理员及不会编程的终端用户。
 * [django-model-report, star:156](https://github.com/juanpex/django-model-report/) ⭐ 216 | 🐛 23 | 🌐 JavaScript | 📅 2021-06-10 - 一个集成了 highcharts 的 Django 报表应用。
 
@@ -339,14 +339,14 @@
 *为项目提供搜索能力的包。*
 
 * [django-haystack, star:2181](https://github.com/django-haystack/django-haystack) ⭐ 3,734 | 🐛 581 | 🌐 Python | 📅 2026-08-21 - Django 中的模块化搜索包。
-* [django-watson, star:577](https://github.com/etianen/django-watson/) ⭐ 1,249 | 🐛 26 | 🌐 Python | 📅 2024-08-14 - 快速的多数据模式的全文搜索插件。
+* [django-watson, star:577](https://github.com/etianen/django-watson/) ⭐ 1,250 | 🐛 26 | 🌐 Python | 📅 2024-08-14 - 快速的多数据模式的全文搜索插件。
 * [djorm-ext-pgfulltext, star:237](https://github.com/linuxlewis/djorm-ext-pgfulltext) ⭐ 251 | 🐛 37 | 🌐 Python | 📅 2020-03-10 - PostgreSQL 全文搜索与 django orm 整合（1 年未更新）。
 
 ## 安全性
 
 *用于改善项目安全性的包。*
 
-* [django-axes, star:315](https://github.com/django-pci/django-axes/) ⭐ 1,700 | 🐛 33 | 🌐 Python | 📅 2026-08-18 - 是一种用于记录失败登录尝试的简单方法，即可用于 Django 管理后台，也可用于你的应用系统。
+* [django-axes, star:315](https://github.com/django-pci/django-axes/) ⭐ 1,699 | 🐛 36 | 🌐 Python | 📅 2026-08-28 - 是一种用于记录失败登录尝试的简单方法，即可用于 Django 管理后台，也可用于你的应用系统。
 * [django-admin-honeypot, star:363](https://github.com/dmpayton/django-admin-honeypot/) ⭐ 1,085 | 🐛 19 | 🌐 Python | 📅 2024-04-10 - 一个伪装的 Django 管理后台登录界面，用来向管理员发送未授权访问尝试信息。
 * [django-secure, star:489](https://github.com/carljm/django-secure/) ⚠️ Archived - 提醒你通过完成一些简单地任务来提高你的 Django 网站的安全性，该项目已整合入 Django 1.8+，故不再维护（2 年未更新）。
 * [django-stronghold, star:227](https://github.com/mgrouchy/django-stronghold/) ⭐ 396 | 🐛 13 | 🌐 Python | 📅 2024-11-24 - Stronghold 是一个中间件，用来默认将你的所有视图导向 login required。
@@ -369,7 +369,7 @@
 
 *用来管理项目的配置的包。*
 
-* [django-environ, star:667](https://github.com/joke2k/django-environ) ⭐ 3,166 | 🐛 65 | 🌐 Python | 📅 2026-08-26 - 能让你使用 12factor 的环境变量来配置你的 Django 应用。
+* [django-environ, star:667](https://github.com/joke2k/django-environ) ⭐ 3,165 | 🐛 65 | 🌐 Python | 📅 2026-08-26 - 能让你使用 12factor 的环境变量来配置你的 Django 应用。
 * [python-decouple, star:386](https://github.com/henriquebastos/python-decouple/) ⭐ 3,037 | 🐛 22 | 🌐 Python | 📅 2024-11-28 - 严格地将配置与代码分离。
 * [django-constance, star:730](https://github.com/jazzband/django-constance) ⭐ 1,851 | 🐛 26 | 🌐 Python | 📅 2026-08-10 - 一个能将动态设置信息存储在可插拔后端（内置 Redis 和 Django 数据模型后端）的 Django 应用，并已与 Django 后台管理应用整合。
 * [django-split-settings, star:131](https://github.com/sobolevn/django-split-settings) ⭐ 1,200 | 🐛 6 | 🌐 Python | 📅 2026-08-24 - 将 Django 设置信息组织到多个文件和目录中。能容易地实现对设置的覆盖和修改。能使用通配符和可选的设置文件。
@@ -387,15 +387,15 @@
 
 ## 标签
 
-* [django-taggit, star:1644](https://github.com/alex/django-taggit/) ⭐ 3,446 | 🐛 114 | 🌐 Python | 📅 2026-08-24 - Django 的简单标签应用。
+* [django-taggit, star:1644](https://github.com/alex/django-taggit/) ⭐ 3,447 | 🐛 114 | 🌐 Python | 📅 2026-08-24 - Django 的简单标签应用。
 * [django-taggit-helpers, star:17](https://github.com/mfcovington/django-taggit-helpers) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2023-09-28 - django-taggit 标签的 Django 后台管理辅助类（1 年未更新）。
 
 ## 任务队列
 
 *能更容易使用任务/后台队队的包。*
 
-* [huey, star:1190](https://github.com/coleifer/huey/) ⭐ 6,014 | 🐛 0 | 🌐 Python | 📅 2026-08-16 - 一个 Python 中的小型多线程任务队列。
-* [django-rq, star:620](https://github.com/ui/django-rq) ⭐ 1,951 | 🐛 116 | 🌐 Python | 📅 2026-08-24 - 在你的 Django 项目监测和使用 [RQ](http://python-rq.org) 的最简单方法。
+* [huey, star:1190](https://github.com/coleifer/huey/) ⭐ 6,017 | 🐛 0 | 🌐 Python | 📅 2026-08-16 - 一个 Python 中的小型多线程任务队列。
+* [django-rq, star:620](https://github.com/ui/django-rq) ⭐ 1,951 | 🐛 116 | 🌐 Python | 📅 2026-08-28 - 在你的 Django 项目监测和使用 [RQ](http://python-rq.org) 的最简单方法。
 * [django-q, star:477](https://github.com/Koed00/django-q) ⭐ 1,877 | 🐛 328 | 🌐 Python | 📅 2024-08-13 - 一个 Django 多进程任务队列。
 * [django-celery, star:1011](https://github.com/celery/django-celery) ⭐ 1,553 | 🐛 83 | 🌐 Python | 📅 2025-05-20 - Celery 与 Django 集成。(Celery 3.1+ 已不再需要该包)
 
@@ -436,7 +436,7 @@
 
 *有助于翻译工程项目的包。*
 
-* [django-modeltranslation, star:483](https://github.com/deschler/django-modeltranslation/) ⭐ 1,480 | 🐛 129 | 🌐 Python | 📅 2026-04-14 - 将现有 Django 数据模型中的动态数据翻译成任何的语言，而无需修改原来的数据模型类。
+* [django-modeltranslation, star:483](https://github.com/deschler/django-modeltranslation/) ⭐ 1,481 | 🐛 129 | 🌐 Python | 📅 2026-04-14 - 将现有 Django 数据模型中的动态数据翻译成任何的语言，而无需修改原来的数据模型类。
 * [django-rosetta, star:608](https://github.com/mbi/django-rosetta/) ⭐ 1,158 | 🐛 57 | 🌐 Python | 📅 2026-07-30 - Rosetta 是一个 ango 应用，它使你的 Django 项目的翻译过程更加容易。
 * [django-parler, star:236](https://github.com/edoburu/django-parler) ⭐ 733 | 🐛 98 | 🌐 Python | 📅 2026-08-09 - 简单的 Django  数据模型翻译工具，没有奇技淫巧。
 * [django-hvad, star:417](https://github.com/KristianOellegaard/django-hvad) ⭐ 533 | 🐛 30 | 🌐 Python | 📅 2022-09-02 - 可在 django 中进行轻松地翻译，使用通常的 ORM。能很容易集成到现存的项目和应用中。能从 django-multilingual-ng 很容易地转换过来。
@@ -474,7 +474,7 @@
 
 *用于过程或业务任务管理的包。*
 
-* [django-viewflow, star:631](https://github.com/viewflow/viewflow) ⭐ 2,873 | 🐛 16 | 🌐 Python | 📅 2026-08-09 - Django 中的可复用工作流库。
+* [django-viewflow, star:631](https://github.com/viewflow/viewflow) ⭐ 2,874 | 🐛 16 | 🌐 Python | 📅 2026-08-09 - Django 中的可复用工作流库。
 * [django-fsm, star:831](https://github.com/kmmbvnr/django-fsm/) ⭐ 2,352 | 🐛 0 | 🌐 Python | 📅 2025-10-07 - Django 对有限状态机的友好支持。
 * [django-river, star:303](https://github.com/javrasya/django-river/) ⭐ 747 | 🐛 35 | 🌐 Python | 📅 2023-05-05 - Django 状态机和工作流库，提供即时修改功能。
 * [django-flows, star:87](https://github.com/carlio/django-flows/) ⭐ 139 | 🐛 5 | 🌐 Python | 📅 2020-03-24 - django-flows 能保存逻辑复杂流中的状态和位置，允许基于每个用户的一系列动作进行可能的分支和复杂路径分离。（1 年未更新）
@@ -485,17 +485,17 @@
 ## 其它
 
 * [django-extensions, star:3111](https://github.com/django-extensions/django-extensions/) ⭐ 6,813 | 🐛 220 | 🌐 Python | 📅 2026-05-21 - 该仓库收集了有关 Django 框架的全局自定义管理扩展功能，提供的管理功能 shell\_plus 能在 django shell 中自动加载所有已安装应用的模型类。
-* [django-cors-headers, star:1435](https://github.com/ottoyiu/django-cors-headers) ⭐ 5,587 | 🐛 9 | 🌐 Python | 📅 2026-08-18 - 一个用于处理跨源资源共享(CORS) 所需的服务器头的 Django 应用。
+* [django-cors-headers, star:1435](https://github.com/ottoyiu/django-cors-headers) ⭐ 5,586 | 🐛 9 | 🌐 Python | 📅 2026-08-18 - 一个用于处理跨源资源共享(CORS) 所需的服务器头的 Django 应用。
 * [django-filter, star:1743](https://github.com/alex/django-filter/) ⭐ 4,685 | 🐛 90 | 🌐 Python | 📅 2026-07-15 - 一个通用的系统，能基于用户选择过滤 Django QuerySets。
 * [django-sql-explorer, star:1251](https://github.com/epantry/django-sql-explorer/) ⭐ 2,876 | 🐛 49 | 🌐 Python | 📅 2025-04-23 - 能通过 SQL 查询进行数据共享更加容易。
 * [django-activity-stream, star:1181](https://github.com/justquick/django-activity-stream/) ⭐ 2,442 | 🐛 25 | 🌐 Python | 📅 2025-12-15 - 基于站点上的行为创建通用的活动流。用户可关注任何行为者的个人活动流。
 * [django-braces, star:1220](https://github.com/brack3t/django-braces/) ⭐ 2,019 | 🐛 9 | 🌐 Python | 📅 2025-03-18 - 可复用的，通用的 Django  mixins。
 * [django-hackathon-starter, star:1005](https://github.com/DrkSephy/django-hackathon-starter) ⭐ 1,614 | 🐛 20 | 🌐 Python | 📅 2020-03-05 - Django Web 应用的样板，包含各种社交认证方法和许多流行 API 的例子。（1 年未更新）
-* [django-dynamic-scraper, star:552](https://github.com/holgerd77/django-dynamic-scraper/) ⭐ 1,157 | 🐛 40 | 🌐 Python | 📅 2022-02-19 - 能通过 Django 管理界面创建 Scrapy 抓取器。
+* [django-dynamic-scraper, star:552](https://github.com/holgerd77/django-dynamic-scraper/) ⭐ 1,156 | 🐛 40 | 🌐 Python | 📅 2022-02-19 - 能通过 Django 管理界面创建 Scrapy 抓取器。
 * [django-ratelimit, star:336](https://github.com/jsocol/django-ratelimit/) ⭐ 1,146 | 🐛 44 | 🌐 Python | 📅 2024-07-11 - 为限速率视图提供了一个装饰器。可基于 IP 地址或请求中的某项（GET 或 POST 中的变量）进行限制。
 * [django-ipware, star:323](https://github.com/un33k/django-ipware) ⭐ 1,064 | 🐛 8 | 🌐 Python | 📅 2024-04-19 - 一个用于获取用户 IP 地址的 Django 应用。
-* [django-recaptcha, star:391](https://github.com/praekelt/django-recaptcha/) ⭐ 1,036 | 🐛 24 | 🌐 Python | 📅 2026-08-17 - Django reCAPTCHA 表单项/组件集成应用。
-* [django-solo, star:273](https://github.com/lazybird/django-solo/) ⭐ 966 | 🐛 15 | 🌐 Python | 📅 2026-01-01 - 有助于使用单例 -- 全局设置等那些你想在管理站点上进行编辑的事物。
+* [django-recaptcha, star:391](https://github.com/praekelt/django-recaptcha/) ⭐ 1,036 | 🐛 25 | 🌐 Python | 📅 2026-08-17 - Django reCAPTCHA 表单项/组件集成应用。
+* [django-solo, star:273](https://github.com/lazybird/django-solo/) ⭐ 966 | 🐛 16 | 🌐 Python | 📅 2026-01-01 - 有助于使用单例 -- 全局设置等那些你想在管理站点上进行编辑的事物。
 * [django-websocket-redis, star:611](https://github.com/jrief/django-websocket-redis) ⭐ 896 | 🐛 100 | 🌐 Python | 📅 2025-03-03 - 为 Django 应用实现的 Websockets，使用 Redis 作为消息队列。
 * [django-friendship, star:291](https://github.com/revsys/django-friendship/) ⭐ 764 | 🐛 1 | 🌐 Python | 📅 2026-08-02 - 用于管理从属或双向关系的 Django 应用。
 * [django-adminactions, star:169](https://github.com/saxix/django-adminactions/) ⭐ 699 | 🐛 14 | 🌐 Python | 📅 2026-05-19 - 一组非常有用的行为集，可用于 django.contrib.admin.ModelAdmin 和  django.contrib.admin.AdminSite。
@@ -526,8 +526,8 @@
 
 ## CMS
 
-* [wagtail, star:4325](https://github.com/torchbox/wagtail/) ⭐ 20,463 | 🐛 1,008 | 🌐 Python | 📅 2026-08-26 - 一个新的 Django 内容管理系统。
-* [django-cms, star:4880](https://github.com/divio/django-cms/) ⭐ 10,665 | 🐛 12 | 🌐 Python | 📅 2026-08-27 - 易用且对开发者友好的 CMS。
+* [wagtail, star:4325](https://github.com/torchbox/wagtail/) ⭐ 20,466 | 🐛 1,013 | 🌐 Python | 📅 2026-08-28 - 一个新的 Django 内容管理系统。
+* [django-cms, star:4880](https://github.com/divio/django-cms/) ⭐ 10,666 | 🐛 13 | 🌐 Python | 📅 2026-08-28 - 易用且对开发者友好的 CMS。
 * [Mezzanine, star:3057](https://github.com/stephenmcd/mezzanine/) ⭐ 4,823 | 🐛 65 | 🌐 Python | 📅 2026-04-19 - 一个使用 Django 框架构建的内容管理平台。
 * [feincms, star:697](https://github.com/feincms/feincms/) ⭐ 1,120 | 🐛 25 | 🌐 Python | 📅 2026-08-24 - 一个基于 Django 的 CMS，关注于扩展性和代码的简洁性。
 * [django-fiber, star:552](https://github.com/ridethepony/django-fiber) ⭐ 664 | 🐛 8 | 🌐 HTML | 📅 2026-08-09 - Django Fiber, 一个简单易用的 CMS，可用于所有的 Django 项目中。
@@ -539,7 +539,7 @@
 
 ## 电子商务
 
-* [django-oscar, star:2495](https://github.com/django-oscar/django-oscar) ⭐ 6,626 | 🐛 160 | 🌐 Python | 📅 2026-08-20 - Django 中基于领域驱动的电子商务框架。
+* [django-oscar, star:2495](https://github.com/django-oscar/django-oscar) ⭐ 6,626 | 🐛 161 | 🌐 Python | 📅 2026-08-20 - Django 中基于领域驱动的电子商务框架。
 * [Cartridge, star:523](https://github.com/stephenmcd/cartridge) ⭐ 712 | 🐛 32 | 🌐 Python | 📅 2024-02-22 - Django/Mezzanine 的电子商务应用。
 * [Lighting Fas Shop](http://www.getlfs.com/) - Lighting Fas Shop 是一个用 Django 构建的电子商务解决方案。
 * [Saleor](http://getsaleor.com) - 在 Python 和 Django 中使用的电子商务店铺。
@@ -593,7 +593,7 @@
 
 # 非 Python 包
 
-* [cookiecutter-django, star:2559](https://github.com/pydanny/cookiecutter-django) ⭐ 13,602 | 🐛 112 | 🌐 Python | 📅 2026-08-27 - 一个 cookiecutter 模板，用于快速创建 Django 项目。
+* [cookiecutter-django, star:2559](https://github.com/pydanny/cookiecutter-django) ⭐ 13,601 | 🐛 112 | 🌐 Python | 📅 2026-08-27 - 一个 cookiecutter 模板，用于快速创建 Django 项目。
 
 ## 外部文档
 
@@ -623,4 +623,4 @@ By contributing you agree to abide by the Code of Merit.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
