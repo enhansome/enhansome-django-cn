@@ -44,7 +44,7 @@
             "open_issues": 3,
             "owner": "sehmaschine",
             "repo": "django-grappelli",
-            "stars": 3945,
+            "stars": 3946,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:20.048Z"
@@ -65,7 +65,7 @@
             "open_issues": 7,
             "owner": "newpanjing",
             "repo": "simpleui",
-            "stars": 3829,
+            "stars": 3830,
             "topics": [
               "admin-template",
               "django",
@@ -184,7 +184,7 @@
             "open_issues": 19,
             "owner": "fabiocaccamo",
             "repo": "django-admin-interface",
-            "stars": 2049,
+            "stars": 2050,
             "topics": [
               "admin",
               "colors",
@@ -251,7 +251,7 @@
             "open_issues": 35,
             "owner": "django-admin-bootstrapped",
             "repo": "django-admin-bootstrapped",
-            "stars": 1569,
+            "stars": 1570,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:20.048Z"
@@ -547,7 +547,7 @@
             "open_issues": 8,
             "owner": "django-webpack",
             "repo": "django-webpack-loader",
-            "stars": 2534,
+            "stars": 2535,
             "topics": [
               "assets",
               "django",
@@ -689,7 +689,7 @@
             "open_issues": 2,
             "owner": "pennersr",
             "repo": "django-allauth",
-            "stars": 10381,
+            "stars": 10382,
             "topics": [
               "accounts",
               "authentication",
@@ -895,8 +895,8 @@
             "id": 10176112,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T13:28:46Z",
-            "open_issues": 43,
+            "last_commit": "2026-10-30T13:31:54Z",
+            "open_issues": 41,
             "owner": "django-oauth",
             "repo": "django-oauth-toolkit",
             "stars": 3342,
@@ -1091,7 +1091,7 @@
             "open_issues": 331,
             "owner": "cookiecutter",
             "repo": "cookiecutter",
-            "stars": 25171,
+            "stars": 25174,
             "topics": [
               "cookiecutter",
               "python"
@@ -1193,7 +1193,7 @@
             "open_issues": 35,
             "owner": "noripyt",
             "repo": "django-cachalot",
-            "stars": 1432,
+            "stars": 1433,
             "topics": [
               "cache",
               "django",
@@ -1471,7 +1471,7 @@
             "open_issues": 0,
             "owner": "kennethreitz",
             "repo": "dj-database-url",
-            "stars": 41,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:20.048Z"
@@ -1515,11 +1515,11 @@
             "id": 873328,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T14:06:51Z",
-            "open_issues": 2142,
+            "last_commit": "2026-10-30T13:57:55Z",
+            "open_issues": 2141,
             "owner": "getsentry",
             "repo": "sentry",
-            "stars": 45678,
+            "stars": 45682,
             "topics": [
               "apm",
               "crash-reporting",
@@ -1556,7 +1556,7 @@
             "open_issues": 71,
             "owner": "django-commons",
             "repo": "django-debug-toolbar",
-            "stars": 8378,
+            "stars": 8379,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:20.048Z"
@@ -1577,7 +1577,7 @@
             "open_issues": 131,
             "owner": "jazzband",
             "repo": "django-silk",
-            "stars": 4994,
+            "stars": 4998,
             "topics": [
               "debug-toolbar",
               "debugging",
@@ -1675,6 +1675,27 @@
       "items": [
         {
           "node_type": "item",
+          "title": "django-ses, star:475",
+          "description": "使用 Amazon Simple Email Service 的 Django 邮件后端。",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A Django email backend for Amazon's Simple Email Service",
+            "homepage": "http://hmarr.com/2011/jan/26/using-amazons-simple-email-service-ses-with-django/",
+            "id": 1292669,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-10-29T23:59:03Z",
+            "open_issues": 48,
+            "owner": "django-ses",
+            "repo": "django-ses",
+            "stars": 1095,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T19:24:20.048Z"
+        },
+        {
+          "node_type": "item",
           "title": "django-post_office, star:331",
           "description": "一个用于发送和管理邮件的简单 Django 应用，支持模板，并能很容易与任务队伍集成。",
           "children": [],
@@ -1690,27 +1711,6 @@
             "owner": "ui",
             "repo": "django-post_office",
             "stars": 1094,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T19:24:20.048Z"
-        },
-        {
-          "node_type": "item",
-          "title": "django-ses, star:475",
-          "description": "使用 Amazon Simple Email Service 的 Django 邮件后端。",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A Django email backend for Amazon's Simple Email Service",
-            "homepage": "http://hmarr.com/2011/jan/26/using-amazons-simple-email-service-ses-with-django/",
-            "id": 1292669,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-10-27T22:59:59Z",
-            "open_issues": 48,
-            "owner": "django-ses",
-            "repo": "django-ses",
-            "stars": 1093,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:20.048Z"
@@ -1976,7 +1976,7 @@
             "id": 2303067,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-26T00:34:19Z",
+            "last_commit": "2026-10-30T11:59:40Z",
             "open_issues": 7,
             "owner": "django-phonenumber-field",
             "repo": "django-phonenumber-field",
@@ -1997,11 +1997,11 @@
             "id": 10851294,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-10T22:24:23Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-29T21:59:05Z",
+            "open_issues": 3,
             "owner": "SmileyChris",
             "repo": "django-countries",
-            "stars": 1528,
+            "stars": 1527,
             "topics": [
               "country-codes",
               "django",
@@ -2026,7 +2026,7 @@
             "open_issues": 13,
             "owner": "caioariede",
             "repo": "django-location-field",
-            "stars": 568,
+            "stars": 569,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:20.048Z"
@@ -2306,7 +2306,7 @@
             "open_issues": 79,
             "owner": "django-crispy-forms",
             "repo": "django-crispy-forms",
-            "stars": 5152,
+            "stars": 5151,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:20.048Z"
@@ -2416,7 +2416,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-25T23:36:49Z",
-            "open_issues": 6,
+            "open_issues": 7,
             "owner": "erwinmatijsen",
             "repo": "django-markdownify",
             "stars": 129,
@@ -2442,11 +2442,11 @@
             "id": 7987095,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-27T22:10:18Z",
-            "open_issues": 31,
+            "last_commit": "2026-10-30T12:54:29Z",
+            "open_issues": 33,
             "owner": "openwisp",
             "repo": "django-rest-framework-gis",
-            "stars": 1132,
+            "stars": 1131,
             "topics": [
               "django",
               "django-rest-framework",
@@ -2474,7 +2474,7 @@
             "open_issues": 13,
             "owner": "caioariede",
             "repo": "django-location-field",
-            "stars": 568,
+            "stars": 569,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:20.048Z"
@@ -2596,7 +2596,7 @@
             "open_issues": 106,
             "owner": "jazzband",
             "repo": "django-push-notifications",
-            "stars": 2382,
+            "stars": 2383,
             "topics": [
               "apns",
               "django",
@@ -2955,11 +2955,11 @@
             "id": 2179572,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-29T11:19:56Z",
-            "open_issues": 154,
+            "last_commit": "2026-10-30T09:35:29Z",
+            "open_issues": 152,
             "owner": "Kozea",
             "repo": "WeasyPrint",
-            "stars": 9741,
+            "stars": 9739,
             "topics": [
               "converter",
               "css",
@@ -3212,7 +3212,7 @@
             "open_issues": 26,
             "owner": "etianen",
             "repo": "django-watson",
-            "stars": 1250,
+            "stars": 1251,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:20.048Z"
@@ -3256,8 +3256,8 @@
             "id": 440043,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-29T12:02:41Z",
-            "open_issues": 34,
+            "last_commit": "2026-10-29T20:55:36Z",
+            "open_issues": 32,
             "owner": "django-commons",
             "repo": "django-axes",
             "stars": 1702,
@@ -3503,8 +3503,8 @@
             "id": 312463,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-27T18:31:05Z",
-            "open_issues": 14,
+            "last_commit": "2026-10-29T15:18:30Z",
+            "open_issues": 13,
             "owner": "django-commons",
             "repo": "django-robots",
             "stars": 474,
@@ -3813,7 +3813,7 @@
             "open_issues": 0,
             "owner": "coleifer",
             "repo": "huey",
-            "stars": 6056,
+            "stars": 6057,
             "topics": [
               "dank",
               "django",
@@ -3838,7 +3838,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-12T14:38:51Z",
-            "open_issues": 121,
+            "open_issues": 120,
             "owner": "rq",
             "repo": "django-rq",
             "stars": 1953,
@@ -3870,7 +3870,7 @@
             "open_issues": 326,
             "owner": "Koed00",
             "repo": "django-q",
-            "stars": 1880,
+            "stars": 1879,
             "topics": []
           },
           "first_seen": "2026-08-28T19:24:20.048Z"
@@ -4490,7 +4490,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-07-30T09:05:25Z",
-            "open_issues": 57,
+            "open_issues": 58,
             "owner": "mbi",
             "repo": "django-rosetta",
             "stars": 1154,
@@ -4896,7 +4896,7 @@
             "open_issues": 21,
             "owner": "viewflow",
             "repo": "viewflow",
-            "stars": 2872,
+            "stars": 2873,
             "topics": [
               "bpmn",
               "django",
@@ -5068,10 +5068,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-26T21:54:52Z",
-            "open_issues": 11,
+            "open_issues": 10,
             "owner": "adamchainz",
             "repo": "django-cors-headers",
-            "stars": 5585,
+            "stars": 5584,
             "topics": [
               "cors",
               "django"
@@ -5112,8 +5112,8 @@
             "id": 15381974,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T13:17:14Z",
-            "open_issues": 48,
+            "last_commit": "2026-10-29T22:48:03Z",
+            "open_issues": 49,
             "owner": "explorerhq",
             "repo": "sql-explorer",
             "stars": 2877,
@@ -5214,7 +5214,7 @@
             "open_issues": 40,
             "owner": "holgerd77",
             "repo": "django-dynamic-scraper",
-            "stars": 1154,
+            "stars": 1153,
             "topics": [
               "django",
               "python",
@@ -5789,11 +5789,11 @@
                 "id": 16479108,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-29T11:43:25Z",
-                "open_issues": 1023,
+                "last_commit": "2026-10-30T11:41:13Z",
+                "open_issues": 1020,
                 "owner": "wagtail",
                 "repo": "wagtail",
-                "stars": 20593,
+                "stars": 20594,
                 "topics": [
                   "cms",
                   "django",
@@ -5991,7 +5991,7 @@
                 "open_issues": 160,
                 "owner": "django-oscar",
                 "repo": "django-oscar",
-                "stars": 6627,
+                "stars": 6629,
                 "topics": [
                   "django",
                   "django-oscar",
@@ -6041,7 +6041,7 @@
                 "id": 2351637,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T07:54:55Z",
+                "last_commit": "2026-10-30T07:57:47Z",
                 "open_issues": 6,
                 "owner": "djangopackages",
                 "repo": "djangopackages",
@@ -6136,8 +6136,8 @@
                 "id": 357894794,
                 "language": "Python",
                 "license": "MPL-2.0",
-                "last_commit": "2026-10-29T08:47:57Z",
-                "open_issues": 97,
+                "last_commit": "2026-10-30T13:22:07Z",
+                "open_issues": 98,
                 "owner": "taigaio",
                 "repo": "taiga-back",
                 "stars": 858,
@@ -6219,7 +6219,7 @@
                 "id": 2351637,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-29T07:54:55Z",
+                "last_commit": "2026-10-30T07:57:47Z",
                 "open_issues": 6,
                 "owner": "djangopackages",
                 "repo": "djangopackages",
@@ -6255,8 +6255,8 @@
             "id": 12115269,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-29T11:22:29Z",
-            "open_issues": 136,
+            "last_commit": "2026-10-30T05:17:33Z",
+            "open_issues": 137,
             "owner": "cookiecutter",
             "repo": "cookiecutter-django",
             "stars": 13633,
@@ -6332,7 +6332,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T14:11:33.860Z",
+    "last_updated": "2026-10-30T14:03:57.623Z",
     "original_repository_info": {
       "archived": false,
       "description": "Django 优秀资源大全。",
@@ -6344,7 +6344,7 @@
       "open_issues": 2,
       "owner": "haiiiiiyun",
       "repo": "awesome-django-cn",
-      "stars": 1810,
+      "stars": 1809,
       "topics": [
         "django",
         "django-admin",
